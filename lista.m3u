@@ -89,6 +89,8 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -143,8 +145,6 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
-https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -381,18 +381,22 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://dlhd.dad/watch.php?id=867
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
+https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
-#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -427,8 +431,6 @@ https://dlhd.dad/watch.php?id=880
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN ZONA (D)
 https://dlhd.dad/watch.php?id=877
-#EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
-https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
@@ -598,7 +600,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="shanghaiatproundof16wuhanwta1stround" tvg-name="Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://images.slivcdn.com/videoasset_images/rolexshanghaimasters2024_match_masthead_logo_round4_hlts.png?q=high" group-title="Eventi Live",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (08:00)
+#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (08:00)" tvg-logo="https://images.seeklogo.com/logo-png/18/2/round1-logo-png_seeklogo-181574.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (08:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (13:30)
