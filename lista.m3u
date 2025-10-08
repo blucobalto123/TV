@@ -241,8 +241,6 @@ https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpzqT0DLXv-md7VU-fTF5BeaEashocwHUdw&s" group-title="Altro",TT TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
-#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
-https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TV QUI (MODENA)
 https://vavoo.to/vavoo-iptv/play/3845119578fb3b0c0d1832
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV2000
@@ -293,6 +291,8 @@ https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
@@ -401,8 +401,6 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -465,8 +463,6 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -610,10 +606,10 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="fifau20wcargentinau20vsnigeriau20" tvg-name="Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)" tvg-logo="https://webp.vp.cdn.pxr.nl/tag/clubs/472821.png?width=1200" group-title="Eventi Live",Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://www.tennis.com/assets/logos/wta_championships.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/tennis.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (08:00)" tvg-logo="https://www.doorcountytriathlon.com/wp-content/themes/doorcountytriathlon/dist/images/grandprixusa.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (08:00)
+#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (08:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (13:30)
