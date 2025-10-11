@@ -2,17 +2,21 @@
     "Saturday 11th Oct 2025 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "16:08",
+                "time": "18:07",
                 "event": "Mr Olympia 1",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "205"
+                    },
+                    {
+                        "channel_name": "Event PPV II",
+                        "channel_id": "5000"
                     }
                 ]
             },
             {
-                "time": "16:08",
+                "time": "18:07",
                 "event": "Mr Olympia 2",
                 "channels": [
                     {
@@ -48,6 +52,26 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Saturday Prejudging - 2025 Olympia",
+                "channels": [
+                    {
+                        "channel_name": "Olympia PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Sat EXPO coverage and podcasts - 2025 Olympia",
+                "channels": [
+                    {
+                        "channel_name": "Olympia PPV",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -2714,6 +2738,10 @@
                         "channel_id": "68"
                     },
                     {
+                        "channel_name": "DAZN PPV II",
+                        "channel_id": "5006"
+                    },
+                    {
                         "channel_name": "ESPN 2 BR",
                         "channel_id": "82"
                     }
@@ -2753,21 +2781,29 @@
             },
             {
                 "time": "16:00",
-                "event": "GLORY 104 Preliminaries",
+                "event": "GLORY 104 - Preliminaries",
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "DAZN PPV II",
+                        "channel_id": "5007"
                     }
                 ]
             },
             {
                 "time": "18:00",
-                "event": "GLORY 104 Main Card",
+                "event": "GLORY 104 - Main Card",
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "DAZN PPV II",
+                        "channel_id": "5007"
                     }
                 ]
             },
