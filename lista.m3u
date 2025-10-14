@@ -57,6 +57,8 @@ https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
+#EXTINF:-1 tvg-id="equtv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/equ-tv-it.png?raw=true" group-title="Altro",EQU TV
+https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/etv-logo-attuale.png?w=640" group-title="Altro",ESPANSIONE TV
 https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_ESPERIAtv.png" group-title="Altro",ESPERIA TV
@@ -129,6 +131,8 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -445,6 +449,8 @@ https://dlhd.dad/watch.php?id=878
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://dlhd.dad/watch.php?id=879
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
+https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RETESOLE LAZIO
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
@@ -603,20 +609,23 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Pro Vercelli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)
-https://dlhd.dad/watch.php?id=2
+#EXTINF:-1 tvg-id="worldcupqualifyingestoniavsmoldova" tvg-name="Soccer | World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="http://wwwnc.cdc.gov/travel/images/map-estonia.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Estonia vs Moldova (18:00)
+https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Pro Vercelli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Trento vs Pro Vercelli (20:30)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsarmeniau21" tvg-name="Soccer | Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Soccer | Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)
+https://dlhd.dad/watch.php?id=851
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
-https://dlhd.dad/watch.php?id=3
+#EXTINF:-1 tvg-id="worldcupqualifyingitalyvsisrael" tvg-name="Soccer | World Cup Qualifying : Italy vs Israel (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Israel.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Italy vs Israel (20:45)
+https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
+#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="Soccer | World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Portugal_vs_Hungary.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Portugal vs Hungary (20:45)
 https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaampningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://roundsofglory.com/wp-content/uploads/2023/07/main-logo.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds (11:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="cyclingtourofhollandprolog" tvg-name="Cycling | Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://freevector-images.s3.amazonaws.com/uploads/vector/preview/31159/cyclist_high.png" group-title="Eventi Live",Cycling | Cycling: Tour of Holland prolog (19:00)
+https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
