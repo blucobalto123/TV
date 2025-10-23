@@ -91,8 +91,6 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -129,6 +127,8 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -297,6 +297,8 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://dlhd.dad/watch.php?id=854
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
+https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
@@ -327,8 +329,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
-https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP)
 https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -463,10 +463,6 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
-https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
-https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
@@ -509,8 +505,6 @@ https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
-#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
-https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (D)
 https://dlhd.dad/watch.php?id=863
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
@@ -636,10 +630,10 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (11:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="northernirelandopenround3" tvg-name="Snooker | Northern Ireland Open | Round 3 (14:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/060/large_2x/round-three-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Snooker | Northern Ireland Open | Round 3 (14:00)
+#EXTINF:-1 tvg-id="northernirelandopenround3" tvg-name="Snooker | Northern Ireland Open | Round 3 (14:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live",Snooker | Northern Ireland Open | Round 3 (14:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="northernirelandopenround3" tvg-name="Snooker | Northern Ireland Open | Round 3 (20:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live",Snooker | Northern Ireland Open | Round 3 (20:00)
+#EXTINF:-1 tvg-id="northernirelandopenround3" tvg-name="Snooker | Northern Ireland Open | Round 3 (20:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/060/large_2x/round-three-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Snooker | Northern Ireland Open | Round 3 (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="tourdefranceroutepresentation2026" tvg-name="Cycling | Tour de France | Route Presentation 2026 (11:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/le-tour-de-france-logo.png" group-title="Eventi Live",Cycling | Tour de France | Route Presentation 2026 (11:00)
@@ -648,7 +642,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="2025worldcupwestmontstage2part2" tvg-name="Cycling | 2025 World Cup - Westmont: Stage 2 (Part 2) (17:30)" tvg-logo="https://3pointproductions.com/wp-content/uploads/2025/04/2025_WORLD_CUP_LOGO.png" group-title="Eventi Live",Cycling | 2025 World Cup - Westmont: Stage 2 (Part 2) (17:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday2" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 2 (23:00)" tvg-logo="https://allsportdb.com/Images/Logo/Large/Events/5383.png" group-title="Eventi Live",Cycling | UCI Track Cycling World Championships Chile | Day 2 (23:00)
+#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday2" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 2 (23:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/zvhgeb1737629419.png" group-title="Eventi Live",Cycling | UCI Track Cycling World Championships Chile | Day 2 (23:00)
 https://dlhd.dad/watch.php?id=878
 
 
