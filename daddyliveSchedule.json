@@ -1072,7 +1072,11 @@
                         "channel_id": "585"
                     },
                     {
-                        "channel_name": "SporTV BR (CH-78) Movistar Liga de Campeones",
+                        "channel_name": "SporTV BR",
+                        "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Movistar Liga de Campeones",
                         "channel_id": "435"
                     },
                     {
@@ -2131,6 +2135,10 @@
                 "time": "15:30",
                 "event": "ATP - VIENNA : Sinner J. vs Bublik A.",
                 "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1520"
