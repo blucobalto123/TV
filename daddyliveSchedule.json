@@ -5170,7 +5170,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship/League One/League Two": [
             {
                 "time": "11:30",
                 "event": "England - Championship : Portsmouth vs Stoke City",
@@ -5464,7 +5464,9 @@
                         "channel_id": "191"
                     }
                 ]
-            },
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "14:00",
                 "event": "Scottish Premiership : Dundee United vs St Mirren",
@@ -5494,7 +5496,9 @@
                         "channel_id": "194"
                     }
                 ]
-            },
+            }
+        ],
+        "Ireland Republic": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Sligo Rovers vs Cork City",
@@ -5504,7 +5508,9 @@
                         "channel_id": "106"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "04:00",
                 "event": "Australia - A-League : Auckland vs Western Sydney Wanderers",
@@ -9924,7 +9930,9 @@
                         "channel_id": "158"
                     }
                 ]
-            },
+            }
+        ],
+        "UFC 321": [
             {
                 "time": "14:00",
                 "event": "UFC 321 Prelims : Ikram Aliskerov vs JunYong Park",
@@ -10306,7 +10314,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "19:00",
                 "event": "CFL : Winnipeg Blue Bombers vs Montreal Alouettes",
@@ -10854,7 +10862,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "23:30",
                 "event": "MLB : Los Angeles Dodgers vs Toronto Blue Jays",
@@ -11278,7 +11286,9 @@
                         "channel_id": "592"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Orlando Magic vs Chicago Bulls",
@@ -12092,7 +12102,9 @@
                         "channel_id": "13"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "16:30",
                 "event": "NHL : New York Islanders vs Philadelphia Flyers",
@@ -13062,7 +13074,9 @@
                         "channel_id": "898"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "00:30",
                 "event": "Women's College Volleyball : Michigan State vs Nebraska",
