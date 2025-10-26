@@ -9,8 +9,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
@@ -89,6 +87,8 @@ https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
@@ -665,7 +665,7 @@ https://dlhd.dad/watch.php?id=19
 #EXTINF:-1 tvg-id="italyseriecpropatriavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Ospitaletto (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Ospitaletto.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pro Patria vs Ospitaletto (18:30)
 https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 tvg-id="italyseriecpianesevsravenna" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Ravenna (18:30)" tvg-logo="https://www.littleheavenravenna.it/wp-content/uploads/2019/10/logo_littleheavenravenna.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Ravenna (18:30)
+#EXTINF:-1 tvg-id="italyseriecpianesevsravenna" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Ravenna (18:30)" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Ravenna (18:30)
 https://dlhd.dad/watch.php?id=22
 
 #EXTINF:-1 tvg-id="italyseriecmonopolivsgiugliano" tvg-name="All Soccer Events | Italy - Serie C : Monopoli vs Giugliano (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Giugliano.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Monopoli vs Giugliano (18:30)
@@ -695,31 +695,25 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsstrasbourg" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Strasbourg (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Strasbourg.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Strasbourg (21:45)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="baselatpampviennaatpsinglesfinals" tvg-name="Tennis | Basel-ATP &amp; Vienna-ATP Singles Finals (11:30)" tvg-logo="https://mywikis-eu-wiki-media.s3.eu-central-2.wasabisys.com/thefinals/THE-FINALS_vaiiya-logo.png" group-title="Eventi Live",Tennis | Basel-ATP &amp; Vienna-ATP Singles Finals (11:30)
+#EXTINF:-1 tvg-id="baselatpampviennaatpsinglesfinals" tvg-name="Tennis | Basel-ATP &amp; Vienna-ATP Singles Finals (11:30)" tvg-logo="http://www.thetripblogger.com/wp-content/uploads/2019/07/what-to-do-in-basel-1024x682.jpg" group-title="Eventi Live",Tennis | Basel-ATP &amp; Vienna-ATP Singles Finals (11:30)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="motogpmalaysiangrandprixwarmup" tvg-name="Motorsport | MotoGP : Malaysian Grand Prix Warm Up (04:30)" tvg-logo="https://telly.cz/wp-content/uploads/2022/09/motogp-804x1128.png" group-title="Eventi Live",Motorsport | MotoGP : Malaysian Grand Prix Warm Up (04:30)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3malaysiangrandprixrace" tvg-name="Motorsport | Moto3 : Malaysian Grand Prix Race (05:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/024/693/547/original/pringles-logo-transparent-free-png.png" group-title="Eventi Live",Motorsport | Moto3 : Malaysian Grand Prix Race (05:00)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="moto2malaysiangrandprixrace" tvg-name="Motorsport | Moto2 : Malaysian Grand Prix Race (07:00)" tvg-logo="https://freepnglogo.com/images/all_img/facebook-logo.png" group-title="Eventi Live",Motorsport | Moto2 : Malaysian Grand Prix Race (07:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpmalaysiangrandprixrace" tvg-name="Motorsport | MotoGP : Malaysian Grand Prix Race (08:15)" tvg-logo="https://telly.cz/wp-content/uploads/2022/09/motogp-804x1128.png" group-title="Eventi Live",Motorsport | MotoGP : Malaysian Grand Prix Race (08:15)
+#EXTINF:-1 tvg-id="motogpmalaysiangrandprixrace" tvg-name="Motorsport | MotoGP : Malaysian Grand Prix Race (08:15)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live",Motorsport | MotoGP : Malaysian Grand Prix Race (08:15)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="formula1mexicocitygrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Mexico City Grand Prix - Grand Prix Sunday (20:00)" tvg-logo="https://www.logotypes101.com/logos/17/672213E0F8785058DA3D07DFDB744D00/f1_logo.png" group-title="Eventi Live",Motorsport | Formula 1 : Mexico City Grand Prix - Grand Prix Sunday (20:00)
+#EXTINF:-1 tvg-id="formula1mexicocitygrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Mexico City Grand Prix - Grand Prix Sunday (20:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live",Motorsport | Formula 1 : Mexico City Grand Prix - Grand Prix Sunday (20:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1mexicocitygrandprixrace" tvg-name="Motorsport | Formula 1 : Mexico City Grand Prix - Race (21:00)" tvg-logo="https://www.logotypes101.com/logos/17/672213E0F8785058DA3D07DFDB744D00/f1_logo.png" group-title="Eventi Live",Motorsport | Formula 1 : Mexico City Grand Prix - Race (21:00)
+#EXTINF:-1 tvg-id="formula1mexicocitygrandprixrace" tvg-name="Motorsport | Formula 1 : Mexico City Grand Prix - Race (21:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live",Motorsport | Formula 1 : Mexico City Grand Prix - Race (21:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="northernirelandopenfinal" tvg-name="Snooker | Northern Ireland Open | Final (15:00)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live",Snooker | Northern Ireland Open | Final (15:00)
+#EXTINF:-1 tvg-id="northernirelandopenfinal" tvg-name="Snooker | Northern Ireland Open | Final (15:00)" tvg-logo="http://www.pixelstalk.net/wp-content/uploads/2016/06/Northern-Lights-Image.jpg" group-title="Eventi Live",Snooker | Northern Ireland Open | Final (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="northernirelandopenfinal" tvg-name="Snooker | Northern Ireland Open | Final (20:00)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live",Snooker | Northern Ireland Open | Final (20:00)
+#EXTINF:-1 tvg-id="northernirelandopenfinal" tvg-name="Snooker | Northern Ireland Open | Final (20:00)" tvg-logo="http://www.pixelstalk.net/wp-content/uploads/2016/06/Northern-Lights-Image.jpg" group-title="Eventi Live",Snooker | Northern Ireland Open | Final (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="salemensgiantslalomworldcuprun1" tvg-name="Alpine Ski | Sale | Men's Giant Slalom World Cup | Run 1 (10:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/349/914/original/clearance-sale-label-promotion-discount-banner-templates-png.png" group-title="Eventi Live",Alpine Ski | Sale | Men's Giant Slalom World Cup | Run 1 (10:30)
@@ -728,10 +722,10 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="salemensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Sale | Men's Giant Slalom World Cup | Run 2 (13:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/349/914/original/clearance-sale-label-promotion-discount-banner-templates-png.png" group-title="Eventi Live",Alpine Ski | Sale | Men's Giant Slalom World Cup | Run 2 (13:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="athletics25thhyundailisbonhalfmarathon" tvg-name="Athletics | Athletics: 25th Hyundai Lisbon Half Marathon (11:00)" tvg-logo="https://staticg.sportskeeda.com/editor/2022/12/f0fc4-16716016201067-1920.jpg" group-title="Eventi Live",Athletics | Athletics: 25th Hyundai Lisbon Half Marathon (11:00)
+#EXTINF:-1 tvg-id="athletics25thhyundailisbonhalfmarathon" tvg-name="Athletics | Athletics: 25th Hyundai Lisbon Half Marathon (11:00)" tvg-logo="https://png.pngtree.com/png-vector/20191001/ourmid/pngtree-athletic-silhouettes-png-image_1773960.jpg" group-title="Eventi Live",Athletics | Athletics: 25th Hyundai Lisbon Half Marathon (11:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday5" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 5 (18:15)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live",Cycling | UCI Track Cycling World Championships Chile | Day 5 (18:15)
+#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday5" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 5 (18:15)" tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/7248f12044a0790cd9933886d17234eb.png" group-title="Eventi Live",Cycling | UCI Track Cycling World Championships Chile | Day 5 (18:15)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="top14stadetoulousainvstoulon" tvg-name="Rugby Union | Top 14 : Stade Toulousain vs Toulon (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Toulousain_vs_Toulon.png" group-title="Eventi Live",Rugby Union | Top 14 : Stade Toulousain vs Toulon (21:00)
