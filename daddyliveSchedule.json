@@ -9328,7 +9328,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scotland - Scottish Premiership : Rangers vs Kilmarnock",
@@ -9338,7 +9338,9 @@
                         "channel_id": "187"
                     }
                 ]
-            },
+            }
+        ],
+        "Ireland Republic": [
             {
                 "time": "15:00",
                 "event": "Ireland Republic - Premier Division : Derry City vs Shamrock Rovers",
@@ -9358,7 +9360,9 @@
                         "channel_id": "189"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:30",
                 "event": "Indonesia - Super League : Arema vs Borneo",
@@ -13080,6 +13084,110 @@
                 ]
             }
         ],
+        "Tennis ATP - VIENNA": [
+            {
+                "time": "10:30",
+                "event": "ATP - VIENNA : Cabral F./Miedler L. vs Cash J./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - VIENNA : Sinner J. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - BASEL": [
+            {
+                "time": "12:00",
+                "event": "ATP - BASEL : Granollers M./Zeballos H. vs Pavlasek A./Zielinski J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - BASEL : Davidovich Fokina A. vs Fonseca J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - TOKYO": [
+            {
+                "time": "03:00",
+                "event": "WTA - TOKYO : Bencic B. vs Noskova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - TOKYO : Babos T./Stefani L. vs Danilina A./Krunic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - GUANGZHOU": [
+            {
+                "time": "05:30",
+                "event": "WTA - GUANGZHOU : Piter K./Tjen J. vs Chong E./Liang E. S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - GUANGZHOU : Sun L. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "09:30",
@@ -13972,7 +14080,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "17:00",
                 "event": "NFL : Redzone",
@@ -14804,7 +14912,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "18:00",
                 "event": "NBA : San Antonio Spurs vs Brooklyn Nets",
@@ -15428,7 +15538,9 @@
                         "channel_id": "151"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "17:00",
                 "event": "NHL : Colorado Avalanche vs New Jersey Devils",
@@ -15852,16 +15964,6 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "Women's College Volleyball : Stanford vs Georgia Tech",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
                 "time": "16:30",
                 "event": "PlusLiga : Resovia Rzeszow vs. Trefl Gdansk",
                 "channels": [
@@ -15878,6 +15980,48 @@
                     {
                         "channel_name": "Polsat Sport 3 Poland",
                         "channel_id": "129"
+                    }
+                ]
+            },
+            {
+                "time": "19:20",
+                "event": "Austria 1. Bundesliga Women : UVC Holding Graz vs. Erzbergmadln VBV Trofaiach/WSV Eisenerz",
+                "channels": [
+                    {
+                        "channel_name": "ORF Sport Plus",
+                        "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "PlusLiga : Chks Chelm vs. Cuprum Lubin SA",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Italy SuperLega : Sir Safety Perugia vs Cucine Lube Civitanova",
+                "channels": [
+                    {
+                        "channel_name": "MAX Sport 1 Bulgaria",
+                        "channel_id": "472"
+                    }
+                ]
+            }
+        ],
+        "NCAA Women's Volleyball": [
+            {
+                "time": "16:00",
+                "event": "Women's College Volleyball : Stanford vs Georgia Tech",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             },
@@ -15918,36 +16062,6 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "19:20",
-                "event": "Austria 1. Bundesliga Women : UVC Holding Graz vs. Erzbergmadln VBV Trofaiach/WSV Eisenerz",
-                "channels": [
-                    {
-                        "channel_name": "ORF Sport Plus",
-                        "channel_id": "2"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "PlusLiga : Chks Chelm vs. Cuprum Lubin SA",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 1 Poland",
-                        "channel_id": "47"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "Italy SuperLega : Sir Safety Perugia vs Cucine Lube Civitanova",
-                "channels": [
-                    {
-                        "channel_name": "MAX Sport 1 Bulgaria",
-                        "channel_id": "472"
                     }
                 ]
             },
