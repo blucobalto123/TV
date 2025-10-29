@@ -1594,8 +1594,32 @@
                 "event": "Italy - Serie B : Venezia vs S\u00fcdtirol",
                 "channels": [
                     {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "175"
+                    },
+                    {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Italy - Serie B : Mantova vs Catanzaro",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Italy - Serie B : Spezia vs Calcio Padova",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "177"
                     }
                 ]
             },
