@@ -8522,7 +8522,16 @@
             {
                 "time": "18:00",
                 "event": "Boxing : Buatsi vs. Parker: Lights Out",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "DAZN2 ES",
+                        "channel_id": "446"
+                    }
+                ]
             },
             {
                 "time": "01:00",
