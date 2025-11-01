@@ -3786,7 +3786,7 @@
         ]
     },
     "Saturday 01st Nov 2025 - Schedule Time UK GMT": {
-        "Soccer": [
+        "England - Championship": [
             {
                 "time": "12:30",
                 "event": "England - Championship : West Bromwich Albion vs Sheffield Wednesday",
@@ -3906,7 +3906,9 @@
                         "channel_id": "188"
                     }
                 ]
-            },
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scotland - Scottish Premiership : Falkirk vs Kilmarnock",
@@ -3936,7 +3938,9 @@
                         "channel_id": "191"
                     }
                 ]
-            },
+            }
+        ],
+        "Ireland Republic": [
             {
                 "time": "16:30",
                 "event": "Ireland Republic - Premier Division : Cork City vs Derry City",
@@ -3986,7 +3990,9 @@
                         "channel_id": "196"
                     }
                 ]
-            },
+            }
+        ],
+        "Major League Soccer (MLS)": [
             {
                 "time": "19:30",
                 "event": "Major League Soccer : New York City vs Charlotte",
@@ -4026,7 +4032,9 @@
                         "channel_id": "154"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "04:00",
                 "event": "Australia - A-League : Auckland vs Adelaide United",
@@ -8162,6 +8170,208 @@
                 ]
             }
         ],
+        "Tennis ATP - PARIS": [
+            {
+                "time": "11:00",
+                "event": "ATP - PARIS : Halys Q./Herbert P. vs Heliovaara H./Patten H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - PARIS : Auger-Aliassime F. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - PARIS : Zverev A. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - PARIS : Cabral F./Miedler L. vs Cash J./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA FINALS": [
+            {
+                "time": "12:30",
+                "event": "WTA FINALS : Errani S./Paolini J. vs Muhammad A./Schuurs D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA FINALS : Swiatek 1. vs Keys M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA FINALS : Anisimova A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA FINALS : Kudermetova V./Mertens E. vs Hsieh S-W./Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - HONG KONG : Bucsa C. vs Joint M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - HONG KONG : Mboko V. vs Fernandez L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CHE\u039d\u039d\u0391\u0399": [
+            {
+                "time": "09:30",
+                "event": "WTA - CHE\u039d\u039d\u0391\u0399 : Hunter S./Niculescu M. vs Hontama M./Omae A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - CHE\u039d\u039d\u0391\u0399 : Tararudee L. vs Tjen J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - CHE\u039d\u039d\u0391\u0399 : Birrell K. vs Garland J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - CHE\u039d\u039d\u0391\u0399 : Bhatia R./Bhosale R. vs Sutjiadi A./Tjen J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - JIUJIANG": [
+            {
+                "time": "04:00",
+                "event": "WTA - JIUJIANG : Ayukawa/Morisaki vs Ovcharenko E./Webley-Smith E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - JIUJIANG : Salkova D. vs Blinkova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - JIUJIANG : Tagger L. vs Golubic V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "06:00",
@@ -8371,7 +8581,9 @@
                         "channel_id": "68"
                     }
                 ]
-            },
+            }
+        ],
+        "UFC Fight Night": [
             {
                 "time": "20:00",
                 "event": "UFC Fight Night Prelims : Billy Elekana vs Kevin Christian",
@@ -8477,10 +8689,10 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (AEW)": [
             {
                 "time": "00:00",
-                "event": "All Elite Wrestling: Collision",
+                "event": "All Elite Wrestling AEW: Collision",
                 "channels": [
                     {
                         "channel_name": "TNT USA",
@@ -8577,7 +8789,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "18:00",
                 "event": "CFL : Montreal Alouettes vs Winnipeg Blue Bombers",
@@ -9069,7 +9281,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "04:00",
                 "event": "AFL Women : Richmond W vs Gold Coast Suns W",
@@ -9115,10 +9327,10 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "00:00",
-                "event": "MLB : Toronto Blue Jays - Los Angeles Dodgers",
+                "event": "MLB : Toronto Blue Jays vs Los Angeles Dodgers",
                 "channels": [
                     {
                         "channel_name": "MLB League Pass",
@@ -9513,7 +9725,9 @@
                         "channel_id": "589"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "21:00",
                 "event": "NBA : Milwaukee Bucks vs Sacramento Kings",
@@ -10223,7 +10437,9 @@
                         "channel_id": "9"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "17:00",
                 "event": "NHL : Carolina Hurricanes vs Boston Bruins",
