@@ -12600,6 +12600,206 @@
                 ]
             }
         ],
+        "Tennis ATP - PARIS": [
+            {
+                "time": "11:30",
+                "event": "ATP - PARIS : Heliovaara H./Patten H. vs Cash J./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - PARIS : Auger-Aliassime F. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - ATHENS": [
+            {
+                "time": "15:00",
+                "event": "ATP - ATHENS : Tabilo A. vs Walton A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - ATHENS : Sakellaridis S. vs Borges N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - ATHENS : Popyrin A. vs Korda S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0395\u03a4Z": [
+            {
+                "time": "14:00",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0395\u03a4Z : Cazaux A. vs Mannarino A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\u0391\u03a4\u03a1 - \u039c\u0395\u03a4Z : Atmane T. vs Gaston H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA FINALS": [
+            {
+                "time": "12:30",
+                "event": "WTA FINALS : Dabrowski G./Routliffe E. vs Andreeva M./Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA FINALS : Sabalenka A. vs Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA FINALS : Gauff C. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA FINALS : Siniakova K./Townsend T. vs Babos T./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - HONG KONG": [
+            {
+                "time": "05:30",
+                "event": "WTA - HONG KONG : Jiang X./Wang Y. vs Kobori M./Plipuech P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - HONG KONG : Bucsa C. vs Mboko V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CHENNAI": [
+            {
+                "time": "12:30",
+                "event": "WTA - CHENNAI : Tjen J. vs Birrell K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - CHENNAI : Hunter S./Niculescu M. vs Sutjiadi A./Tjen J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - JIUJIANG": [
+            {
+                "time": "04:00",
+                "event": "WTA - JIUJIANG : Gleason Q./Pridankina E. vs Ovcharenko/Webley-Smith",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - JIUJIANG : Blinkova A. vs Tagger L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "06:00",
