@@ -255,8 +255,10 @@ https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
 https://vavoo.to/vavoo-iptv/play/3038112906ea7474420e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tvrs-it.png?raw=true" group-title="Altro",TVRS
 https://vavoo.to/vavoo-iptv/play/148874663839cdbe9a2d7e
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro",UMBRIA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro",UMBRIA TV (1)
 https://vavoo.to/vavoo-iptv/play/1597386407952db649a6ca
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro",UMBRIA TV (2)
+https://vavoo.to/vavoo-iptv/play/2230919796f4c4a3b6f393
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRpKemP5FC0RLOQVhc9kPU71aJW9Tj9DU8g&s" group-title="Altro",UNINETTUNO
 https://vavoo.to/vavoo-iptv/play/797328723f4292436afc4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.laureaonlinegiurisprudenza.it/wp-content/uploads/2019/09/Logo-Uninettuno.png" group-title="Altro",UNINETTUNO UNIVERSITY TV
@@ -303,8 +305,6 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
-#EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
-https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
@@ -357,6 +357,8 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -477,8 +479,6 @@ https://dlhd.dad/watch.php?id=870
 https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
@@ -633,16 +633,16 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="englandpremierleaguesunderlandvseverton" tvg-name="Soccer | England - Premier League : Sunderland vs Everton (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Everton.png" group-title="Eventi Live",Soccer | England - Premier League : Sunderland vs Everton (22:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
+#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipround1session6" tvg-name="Snooker | International Championship | Round 1 | Session 6 (13:30)" tvg-logo="https://searchengineland.com/wp-content/seloads/2025/08/smarter-international-seo.png" group-title="Eventi Live",Snooker | International Championship | Round 1 | Session 6 (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround1session6" tvg-name="Snooker | International Championship | Round 1 | Session 6 (13:30)" tvg-logo="https://www.navitrans.com.co/wp-content/uploads/2023/02/hv-607-2.png" group-title="Eventi Live",Snooker | International Championship | Round 1 | Session 6 (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://storage.allsportdb.com/flags/flag-ca.png" group-title="Eventi Live",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
+#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://guidesblitz.files.wordpress.com/2022/10/isu130.png" group-title="Eventi Live",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="https://static.wikia.nocookie.net/fortnite/images/c/cc/Grand_Glacier_-_Location_-_Fortnite.png/revision/latest/scale-to-width-down/1200?cb=20231204170439" group-title="Eventi Live",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
+#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="https://ct101.commons.gc.cuny.edu/wp-content/blogs.dir/13027/files/2021/05/tenor-1.gif" group-title="Eventi Live",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
 https://dlhd.dad/watch.php?id=879
 
 
