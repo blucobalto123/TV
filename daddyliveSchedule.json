@@ -3488,7 +3488,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship/EFL Trophy/League One": [
             {
                 "time": "19:00",
                 "event": "England - EFL Trophy : Notts County vs Manchester United U21",
@@ -3598,7 +3598,9 @@
                         "channel_id": "169"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "10:00",
                 "event": "Asia - AFC Champions League Elite : Sanfrecce Hiroshima vs Gangwon",
@@ -5140,6 +5142,182 @@
                 ]
             }
         ],
+        "Tennis ATP - ATHENS": [
+            {
+                "time": "12:00",
+                "event": "ATP - ATHENS : McDonald M. vs Etcheverry T. M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - ATHENS : Korda S. vs Dzumhur D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - ATHENS : Djokovic N. vs Tabilo A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - ATHENS : Spizzirri E. vs Borges N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0395TZ": [
+            {
+                "time": "11:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Jacquet K. vs Van Assche L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Altmaier D. vs Rinderknech A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Moutet C. vs Vukic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Cobolli F. vs Sonego L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Cazaux A. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA FINALS": [
+            {
+                "time": "12:00",
+                "event": "WTA FINALS : Siniakova K./Townsend T. vs Dabrowski G./Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA FINALS : Gauff C. vs Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA FINALS : Sabalenka A. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA FINALS : Andreeva M./Shnaider D. vs Babos T./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "12:00",
@@ -5258,7 +5436,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (NXT)": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -5364,7 +5542,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "00:00",
                 "event": "NCAAF : UMass vs Akron",
@@ -5668,6 +5846,18 @@
                 ]
             },
             {
+                "time": "21:30",
+                "event": "Brazil NBB : Minas T\u00eanis Clube vs Sesi Franca Basquete",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 Brazil",
+                        "channel_id": "82"
+                    }
+                ]
+            }
+        ],
+        "College Basketball": [
+            {
                 "time": "21:00",
                 "event": "College Basketball : Tennessee State vs UNC vs Asheville",
                 "channels": [
@@ -5684,16 +5874,6 @@
                     {
                         "channel_name": "TSN2",
                         "channel_id": "112"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "Brazil NBB : Minas T\u00eanis Clube vs Sesi Franca Basquete",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 Brazil",
-                        "channel_id": "82"
                     }
                 ]
             },
@@ -5776,7 +5956,9 @@
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:30",
                 "event": "NBA : Toronto Raptors vs Milwaukee Bucks",
@@ -6066,7 +6248,9 @@
                         "channel_id": "127"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Utah Mammoth vs Buffalo Sabres",
