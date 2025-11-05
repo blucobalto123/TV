@@ -3923,7 +3923,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship/EFL Trophy": [
             {
                 "time": "19:00",
                 "event": "England - EFL Trophy : Cambridge United vs Brighton U21",
@@ -3963,7 +3963,9 @@
                         "channel_id": "185"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "10:00",
                 "event": "Asia - AFC Champions League Elite : Vissel Kobe vs Ulsan",
@@ -5741,6 +5743,172 @@
                 ]
             }
         ],
+        "Tennis ATP - ATHENS": [
+            {
+                "time": "12:00",
+                "event": "ATP - ATHENS : Kecmanovic M. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - ATHENS : Muller A. vs Etcheverry T. M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - ATHENS : Wawrinka S. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - ATHENS : Nakashima B. vs Giron M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0395TZ": [
+            {
+                "time": "13:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Tien L. vs Echargui M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Gaston H. vs Altmaier D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Sachko V. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Vukic A. vs Berrettini M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA FINALS": [
+            {
+                "time": "12:00",
+                "event": "WTA FINALS : Errani S./Paolini J. vs Kudermetova V./Mertens E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA FINALS : Rybakina E. vs Keys M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA FINALS : Swiatek I. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA FINALS : Hsieh S-W./Ostapenko J. vs Muhammad A./Schuurs D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "12:00",
@@ -5859,10 +6027,10 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (AEW)": [
             {
                 "time": "01:00",
-                "event": "All Elite Wrestling: Dynamite",
+                "event": "All Elite Wrestling AEW : Dynamite",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -5971,7 +6139,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "00:00",
                 "event": "NCAAF : Kent State vs Ball State",
@@ -6441,7 +6609,9 @@
                         "channel_id": "429"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA College Basketball": [
             {
                 "time": "23:00",
                 "event": "NCAA : Rider vs Rutgers",
@@ -6471,7 +6641,9 @@
                         "channel_id": "385"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Cleveland Cavaliers vs Philadelphia 76ers",
@@ -7005,7 +7177,9 @@
                         "channel_id": "186"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Utah Mammoth vs Toronto Maple Leafs",
@@ -7237,7 +7411,9 @@
                         "channel_id": "172"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "00:00",
                 "event": "Women's College Volleyball : Alabama vs. Arkansas",
