@@ -3211,7 +3211,11 @@
                         "channel_id": "4"
                     },
                     {
-                        "channel_name": "NBCS Boston USA (CH-754) } Sport TV1 Portugal HD",
+                        "channel_name": "NBCS Boston USA",
+                        "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal HD",
                         "channel_id": "49"
                     }
                 ]
@@ -6591,7 +6595,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (TNA)": [
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -6825,7 +6829,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "00:30",
                 "event": "NCAAF : Georgia Southern vs Appalachian State",
@@ -6845,7 +6849,9 @@
                         "channel_id": "44"
                     }
                 ]
-            },
+            }
+        ],
+        "NFL": [
             {
                 "time": "01:15",
                 "event": "NFL : Denver Broncos vs Las Vegas Raiders",
@@ -7147,7 +7153,9 @@
                         "channel_id": "80"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA College Basketball": [
             {
                 "time": "00:00",
                 "event": "College Basketball : Mid-Atlantic Christian vs Hampton",
@@ -7191,7 +7199,9 @@
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "02:00",
                 "event": "NBA : Phoenix Suns vs Los Angeles Clippers",
@@ -7437,7 +7447,9 @@
                         "channel_id": "179"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Ottawa Senators vs Boston Bruins",
@@ -7729,7 +7741,9 @@
                         "channel_id": "129"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "01:00",
                 "event": "Women's College Volleyball : Illinois vs. Nebraska",
@@ -7757,7 +7771,7 @@
                 "event": "Grand Slam of Curling GSOC Tahoe, Day 3",
                 "channels": [
                     {
-                        "channel_name": "Bally Sports Sun",
+                        "channel_name": "FanDuel Sports Network Sun",
                         "channel_id": "905"
                     },
                     {
