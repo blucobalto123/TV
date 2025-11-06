@@ -3354,7 +3354,7 @@
                     },
                     {
                         "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "992"
+                        "channel_id": "982"
                     },
                     {
                         "channel_name": "ESPN USA",
@@ -3381,7 +3381,11 @@
                         "channel_id": "375"
                     },
                     {
-                        "channel_name": "beIN Sports 1 France (CH-116) } Arena 1 Premium Serbia",
+                        "channel_name": "beIN Sports 1 France",
+                        "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
                     },
                     {
@@ -6331,6 +6335,172 @@
                 ]
             }
         ],
+        "Tennis ATP - ATHENS": [
+            {
+                "time": "10:00",
+                "event": "ATP - ATHENS : Korda S. vs Kecmanovic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - ATHENS : Muller A. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - ATHENS : Djokovic N. vs Borges N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - ATHENS : Giron M. vs Hanfmann Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0395TZ": [
+            {
+                "time": "13:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Jacquet K. vs Norrie C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Sonego L. vs Altmaier D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Tabur C. vs Sachko V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Berrettini M. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA FINALS": [
+            {
+                "time": "12:00",
+                "event": "WTA FINALS : Dabrowski G./Routliffe E. vs Babos T./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA FINALS : Pegula J. vs Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA FINALS : Sabalenka A. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA FINALS : Siniakova K./Townsend T. vs Andreeva M./Shnaider D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "12:00",
@@ -6683,7 +6853,7 @@
                         "channel_id": "589"
                     },
                     {
-                        "channel_name": "Sport KLUB Golf Croatia S",
+                        "channel_name": "Sport KLUB Golf Croatia",
                         "channel_id": "710"
                     },
                     {
@@ -6735,7 +6905,7 @@
                         "channel_id": "422"
                     },
                     {
-                        "channel_name": "Sport KLUB Golf Croatia S",
+                        "channel_name": "Sport KLUB Golf Croatia",
                         "channel_id": "710"
                     },
                     {
@@ -7182,7 +7352,7 @@
             },
             {
                 "time": "02:00",
-                "event": "NCAA : Mercyhurst Lakers - Loyola Chicago",
+                "event": "NCAA : Mercyhurst Lakers vs Loyola Chicago",
                 "channels": [
                     {
                         "channel_name": "Marquee Sports Network",
