@@ -3015,7 +3015,7 @@
             },
             {
                 "time": "00:30",
-                "event": "NCAAF : UT San Antonio South Florida",
+                "event": "NCAAF : UT San Antonio vs South Florida",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
@@ -5946,6 +5946,132 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - ATHENS": [
+            {
+                "time": "15:00",
+                "event": "ATP - ATHENS : Djokovic N. vs Hanfmann Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - ATHENS : Korda S. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis \u0391\u03a4\u03a1 - \u039c\u0395\u03a4Z": [
+            {
+                "time": "14:30",
+                "event": "ATP - \u039c\u0395\u03a4Z : Norrie C. vs Sonego L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - \u039c\u0395\u03a4Z : Sachko V. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA FINALS": [
+            {
+                "time": "12:30",
+                "event": "WTA FINALS : Hsieh S-W./Ostapenko J. vs Babos T./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA FINALS : Pegula J. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA FINALS : Sabalenka A. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA FINALS : Kudermetova V./Mertens E. vs Siniakova K./Townsend T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
                     }
                 ]
             }
