@@ -9,6 +9,8 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
@@ -499,8 +501,6 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://dlhd.dad/watch.php?id=574
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -713,10 +713,7 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Qualifying (19:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Qualifying (19:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="internationalchampionshipsemifinal" tvg-name="Snooker | International Championship | Semi-Final (08:00)" tvg-logo="https://kenkenpuzzles.in/wp-content/uploads/2018/04/logo.png" group-title="Eventi Live",Snooker | International Championship | Semi-Final (08:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="internationalchampionshipsemifinal" tvg-name="Snooker | International Championship | Semi-Final (13:30)" tvg-logo="https://www.usasf.net/EA International Logo -1-.png" group-title="Eventi Live",Snooker | International Championship | Semi-Final (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipsemifinal" tvg-name="Snooker | International Championship | Semi-Final (13:30)" tvg-logo="https://kenkenpuzzles.in/wp-content/uploads/2018/04/logo.png" group-title="Eventi Live",Snooker | International Championship | Semi-Final (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="cyclocrosseuropeanchampionshipsmiddelkerke2025womensrace" tvg-name="Cycling | Cyclo-cross: European Championships - Middelkerke 2025 women's race (16:00)" tvg-logo="https://s1.static-clubeo.com/uploads/challenge-mosellan-cyclo-cross/logo__sae6va.png" group-title="Eventi Live",Cycling | Cyclo-cross: European Championships - Middelkerke 2025 women's race (16:00)
@@ -728,7 +725,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="mensfreeskate" tvg-name="Ice Skating | Men's Free Skate (09:30)" tvg-logo="https://cdn.shopify.com/s/files/1/0662/3537/files/BaldBeardStylesMenCorporateBeard.png?v=1678591898" group-title="Eventi Live",Ice Skating | Men's Free Skate (09:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="womensfreeskate" tvg-name="Ice Skating | Women's Free Skate (12:30)" tvg-logo="https://www.women.com/img/gallery/welcome-to-the-women-newsletter/l-intro-1687457219.jpg" group-title="Eventi Live",Ice Skating | Women's Free Skate (12:30)
+#EXTINF:-1 tvg-id="womensfreeskate" tvg-name="Ice Skating | Women's Free Skate (12:30)" tvg-logo="http://static1.squarespace.com/static/63e20422289a555372cd45e4/63e2042a289a555372cd4754/648216bd239c827cbb2e997c/1721474466522/women_laughing.png?format=1500w" group-title="Eventi Live",Ice Skating | Women's Free Skate (12:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="friendlyinternationalirelandvsjapan" tvg-name="Rugby Union | Friendly International : Ireland vs Japan (14:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ireland_vs_Japan.png" group-title="Eventi Live",Rugby Union | Friendly International : Ireland vs Japan (14:40)
