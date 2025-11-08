@@ -1,5 +1,127 @@
 {
     "Saturday 08th Nov 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:00",
+                "event": "Haltech World Cup Finals Day 3",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Veterans Race to Remembrance VIR",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "wXw: 25th Anniversary Tour - Frankfurt",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "GBM The Heist",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Bragging Rights: Teo Alin vs Lee Gormley",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Toughest in the Trades III",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "World of Outlaws World Finals Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 Fall Brawl at Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Cage of Honor 95",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "GCW: Massacre In Maine 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Champ 7",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "2025 EnduroCross Round 4 at Redmond",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            }
+        ],
         "England - Championship/League One/League Two": [
             {
                 "time": "12:30",
@@ -4405,6 +4527,46 @@
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    }
+                ]
+            }
+        ],
+        "ATP - ATHENS": [
+            {
+                "time": "15:00",
+                "event": "ATP - ATHENS : Djokovic N. vs Musetti L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "ATP - METZ": [
+            {
+                "time": "15:30",
+                "event": "ATP - METZ : Norrie C. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "WTA FINALS": [
+            {
+                "time": "16:00",
+                "event": "WTA FINALS : Sabalenka A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     }
                 ]
             }
