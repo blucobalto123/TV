@@ -8641,7 +8641,11 @@
                 "event": "NHL : Pittsburgh Penguins vs New Jersey Devils",
                 "channels": [
                     {
-                        "channel_name": "NHL Gamecenter (CH-10)SportsNet Pittsburgh",
+                        "channel_name": "NHL Gamecenter",
+                        "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
                     },
                     {
