@@ -7274,16 +7274,6 @@
                         "channel_id": "982"
                     }
                 ]
-            },
-            {
-                "time": "04:00",
-                "event": "NCAAF : San Diego State at Hawaii",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
-                    }
-                ]
             }
         ],
         "Athletics": [
@@ -9686,7 +9676,7 @@
         ]
     },
     "Sunday 09th Nov 2025 - Schedule Time UK GMT": {
-        "Soccer": [
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scottish Premiership : Aberdeen vs Motherwell",
@@ -9716,7 +9706,9 @@
                         "channel_id": "178"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "04:00",
                 "event": "Australia A-League Men : sydney fc vs macarthur",
@@ -14923,7 +14915,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "14:30",
                 "event": "NFL : Indianapolis Colts vs Atlanta Falcons",
@@ -15339,7 +15331,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "04:00",
                 "event": "AFL Women : Adelaide Crows W vs St Kilda W",
@@ -15757,16 +15749,6 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "NCAA Men's Basketball: New Hampshire vs Harvard",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
                 "time": "18:00",
                 "event": "ACB : Club Joventut Badalona vs. Real Madrid",
                 "channels": [
@@ -15803,30 +15785,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "NCAA : Pennsylvania vs American University",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    },
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "College Basketball : Indiana vs. Marquette",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
                 "time": "18:30",
                 "event": "Basket 3h3: World tour, finale, prenos",
                 "channels": [
@@ -15853,6 +15811,62 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NBA G League Basketball : Capital City Go-Go vs Long Island Nets",
+                "channels": [
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "NBA G-League : South Bay Lakers vs Valley Suns",
+                "channels": [
+                    {
+                        "channel_name": "Spectrum SportsNet USA",
+                        "channel_id": "982"
+                    }
+                ]
+            }
+        ],
+        "NCAA College Basketball": [
+            {
+                "time": "17:00",
+                "event": "NCAA Men's Basketball: New Hampshire vs Harvard",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA : Pennsylvania vs American University",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "College Basketball : Indiana vs. Marquette",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
                     }
                 ]
             },
@@ -15893,16 +15907,6 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "NBA G League Basketball : Capital City Go-Go vs Long Island Nets",
-                "channels": [
-                    {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
                     }
                 ]
             },
@@ -15961,16 +15965,6 @@
                 ]
             },
             {
-                "time": "01:00",
-                "event": "NBA G-League : South Bay Lakers vs Valley Suns",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
-                    }
-                ]
-            },
-            {
                 "time": "01:30",
                 "event": "NCAAB : Washington Huskies vs. Baylor Bears",
                 "channels": [
@@ -15987,7 +15981,9 @@
                         "channel_id": "102"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "20:30",
                 "event": "NBA : Milwaukee Bucks vs Houston Rockets",
@@ -16629,7 +16625,9 @@
                         "channel_id": "27"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "18:00",
                 "event": "NHL : Chicago Blackhawks vs Detroit Red Wings",
@@ -17089,16 +17087,6 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "Women's College Volleyball : Virginia vs Pittsburgh",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
                 "time": "17:30",
                 "event": "Slovakia Extraliga : Svk Tatran Banska Bystrica vs. VK MIRAD UNIPO Presov",
                 "channels": [
@@ -17119,6 +17107,18 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    }
+                ]
+            }
+        ],
+        "NCAA Women's Volleyball": [
+            {
+                "time": "17:00",
+                "event": "Women's College Volleyball : Virginia vs Pittsburgh",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             },
