@@ -3136,6 +3136,80 @@
                 ]
             }
         ],
+        "Tennis ATP FINALS": [
+            {
+                "time": "10:30",
+                "event": "ATP FINALS : Granollers M./Zeballos H. vs Bolelli S./Vavassori A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP FINALS : Alcaraz C. vs Fritz T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP FINALS : Cash J./Glasspool L. vs Krawietz K./Puetz",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP FINALS : Musetti L. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "13:00",
@@ -3288,7 +3362,7 @@
         ],
         "WWE": [
             {
-                "time": "00:00",
+                "time": "01:00",
                 "event": "WWE NXT",
                 "channels": [
                     {
@@ -4290,7 +4364,7 @@
         ],
         "Futsal": [
             {
-                "time": "23:58",
+                "time": "02:00",
                 "event": "050:30 Brazil Liga Futsal : Magnus Sorocaba vs Corinthians",
                 "channels": [
                     {
