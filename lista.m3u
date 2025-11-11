@@ -85,7 +85,9 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
+https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -315,6 +317,8 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -381,8 +385,6 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://dlhd.dad/watch.php?id=867
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
@@ -531,8 +533,6 @@ https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
-#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
@@ -595,10 +595,10 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240310/original/pngtree-2025-golden-3d-letters-happy-new-yea-png-image_14556016.png" group-title="Eventi Live",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240607/original/pngtree-2025-3d-colorful-design-png-image_15264292.png" group-title="Eventi Live",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://thumbs.dreamstime.com/z/adenosine-triphosphate-atp-structural-formula-chemical-formula-molecular-model-80394332.jpg" group-title="Eventi Live",Tennis | ATP Finals Singles Round Robin (21:30)
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live",Tennis | ATP Finals Singles Round Robin (21:30)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="championsleaguetrapanivsbneiherzliya" tvg-name="Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani_vs_Bnei Herzliya.png" group-title="Eventi Live",Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)
