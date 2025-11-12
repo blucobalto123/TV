@@ -131,8 +131,6 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -323,6 +321,8 @@ https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -395,6 +395,8 @@ https://dlhd.dad/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -603,7 +605,7 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="europeu19euroqualifyingitalyu19vsmoldovau19" tvg-name="Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)
+#EXTINF:-1 tvg-id="europeu19euroqualifyingitalyu19vsmoldovau19" tvg-name="Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)" tvg-logo="https://www.mappr.co/wp-content/uploads/2023/05/italy-major-airports-map.png" group-title="Eventi Live",Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="nittoatpfinals" tvg-name="Tennis | Nitto ATP Finals (12:30)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/es.png" group-title="Eventi Live",Tennis | Nitto ATP Finals (12:30)
