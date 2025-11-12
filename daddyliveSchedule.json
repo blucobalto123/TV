@@ -2284,8 +2284,8 @@
         ],
         "Futsal": [
             {
-                "time": "21:46",
-                "event": "050:30 Brazil Liga Futsal : Magnus Sorocaba vs Corinthians",
+                "time": "00:00",
+                "event": "Brazil Liga Futsal : Magnus Sorocaba vs Corinthians",
                 "channels": [
                     {
                         "channel_name": "Bandsports Brasil",
@@ -3002,38 +3002,6 @@
         ]
     },
     "Wednesday 12th Nov 2025 - Schedule Time UK GMT": {
-        "PPV Events": [
-            {
-                "time": "16:30",
-                "event": "Big Ten : Penn State vs Coppin State | Basketball (W)",
-                "channels": [
-                    {
-                        "channel_name": "BTN+",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "Big Ten : Michigan State vs Youngstown St. | Basketball (W)",
-                "channels": [
-                    {
-                        "channel_name": "BTN+",
-                        "channel_id": "55"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "Big Ten : Wisconsin vs Bowling Green | Basketball (W)",
-                "channels": [
-                    {
-                        "channel_name": "BTN+",
-                        "channel_id": "59"
-                    }
-                ]
-            }
-        ],
         "TV Shows": [
             {
                 "time": "16:00",
@@ -3490,6 +3458,38 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "16:30",
+                "event": "Big Ten : Penn State vs Coppin State | Basketball (W)",
+                "channels": [
+                    {
+                        "channel_name": "BTN+",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Big Ten : Michigan State vs Youngstown St. | Basketball (W)",
+                "channels": [
+                    {
+                        "channel_name": "BTN+",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Big Ten : Wisconsin vs Bowling Green | Basketball (W)",
+                "channels": [
+                    {
+                        "channel_name": "BTN+",
+                        "channel_id": "59"
+                    }
+                ]
+            }
+        ],
         "Soccer": [
             {
                 "time": "08:30",
@@ -3830,6 +3830,80 @@
                 ]
             }
         ],
+        "Tennis ATP FINALS": [
+            {
+                "time": "10:30",
+                "event": "ATP FINALS : Heliovaara H./Patten H. vs Salisbury J./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP FINALS : Shelton B. vs Auger-Aliassime F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP FINALS : Arevalo M./Pavic M. vs Harrison C./King E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP FINALS : Sinner J. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "10:30",
@@ -3980,7 +4054,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "19:00",
                 "event": "High School Football IHSAA State Championships, Second Semifinal: Teams TBA",
@@ -4040,7 +4114,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "00:00",
                 "event": "MLB Awards 2025 BBWAA Cy Young Award Live",
@@ -4542,7 +4616,9 @@
                         "channel_id": "85"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA College Basketball": [
             {
                 "time": "00:00",
                 "event": "NCAA Men's Basketball: Northern Kentucky vs East Tennessee State",
@@ -4632,7 +4708,9 @@
                         "channel_id": "385"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Charlotte Hornets vs Milwaukee Bucks",
@@ -5154,12 +5232,62 @@
         ],
         "Ice Hockey": [
             {
+                "time": "14:00",
+                "event": "Russia MHL : Snezhnye Barsy Astana U20 vs Sputnik Almetyevsk U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Russia KHL : Salavat Yulaev Ufa vs SKA St. Petersburg",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Women's College Hockey : St. Lawrence vs Clarkson",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet New York USA",
+                        "channel_id": "759"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "Czech Republic 1st Liga : HC Slavia Prague vs. SC Kolin",
                 "channels": [
                     {
                         "channel_name": "CT Sport Czech HD",
                         "channel_id": "1033"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Dinamo Minsk vs Sibir Novosibirsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Torpedo Nizhny Novgorod vs Sochi",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "15"
                     }
                 ]
             },
@@ -5180,6 +5308,66 @@
                     {
                         "channel_name": "V Sport 1 Norway HD",
                         "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Ostersund vs Modo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sportkanalen Sweden",
+                        "channel_id": "707"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Oskarshamn vs BIK Karlskoga",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs Vasteras",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : IF Bjorkloven vs Vimmerby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Troja/Ljungby vs AIK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Sodertalje vs Nybro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
                     }
                 ]
             },
@@ -5216,17 +5404,9 @@
                         "channel_id": "26"
                     }
                 ]
-            },
-            {
-                "time": "16:00",
-                "event": "Women's College Hockey : St. Lawrence vs Clarkson",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    }
-                ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : New York Rangers vs Tampa Bay Lightning",
@@ -5374,106 +5554,6 @@
                         "channel_id": "147"
                     }
                 ]
-            },
-            {
-                "time": "14:00",
-                "event": "Russia MHL : Snezhnye Barsy Astana U20 vs Sputnik Almetyevsk U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "15"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Russia KHL : Salavat Yulaev Ufa vs SKA St. Petersburg",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Dinamo Minsk vs Sibir Novosibirsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Torpedo Nizhny Novgorod vs Sochi",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "15"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Ostersund vs Modo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sportkanalen Sweden",
-                        "channel_id": "707"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Oskarshamn vs BIK Karlskoga",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs Vasteras",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : IF Bjorkloven vs Vimmerby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Troja/Ljungby vs AIK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Sodertalje vs Nybro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
             }
         ],
         "Squash": [
@@ -5600,7 +5680,9 @@
                         "channel_id": "882"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball : Georgia Tech vs. Clemson",
