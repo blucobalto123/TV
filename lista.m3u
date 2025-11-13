@@ -93,8 +93,6 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -131,6 +129,8 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -147,8 +147,6 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
-https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -317,6 +315,8 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -600,7 +600,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="worldcupqualifyingnorwayvsestonia" tvg-name="Soccer | World Cup Qualifying : Norway vs Estonia (19:00)" tvg-logo="https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/timelapse-geiranger-fjord-norway-4k-ultra-hd-4096x2304-it-is-a-15-kilometre-93-mi-long-branch-off-of-the-sunnylvsfjorden-which-is-a-branch-off-of-the-storfjorden-great-fjord_srmnhihp_thumbnail-1080_01.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Norway vs Estonia (19:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="worldcupqualifyingmoldovavsitaly" tvg-name="Soccer | World Cup Qualifying : Moldova vs Italy (21:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230405/original/pngtree-made-in-italy-vector-logo-with-italian-flag-png-image_9027297.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Moldova vs Italy (21:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingmoldovavsitaly" tvg-name="Soccer | World Cup Qualifying : Moldova vs Italy (21:45)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Moldova vs Italy (21:45)
 https://dlhd.dad/watch.php?id=850
 
 #EXTINF:-1 tvg-id="worldcupqualifyingfrancevsukraine" tvg-name="Soccer | World Cup Qualifying : France vs Ukraine (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Ukraine.png" group-title="Eventi Live",Soccer | World Cup Qualifying : France vs Ukraine (21:45)
@@ -612,10 +612,10 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live",Tennis | ATP Finals Singles Round Robin (21:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="italysuperlegaperugiaumbriavolleyvscuneovolley" tvg-name="Volleyball | Italy SuperLega : Perugia Umbria Volley vs. Cuneo Volley (21:30)" tvg-logo="https://www.countryandtownhouse.com/wp-content/uploads/2020/05/GettyImages-579741360.jpg" group-title="Eventi Live",Volleyball | Italy SuperLega : Perugia Umbria Volley vs. Cuneo Volley (21:30)
+#EXTINF:-1 tvg-id="italysuperlegaperugiaumbriavolleyvscuneovolley" tvg-name="Volleyball | Italy SuperLega : Perugia Umbria Volley vs. Cuneo Volley (21:30)" group-title="Eventi Live",Volleyball | Italy SuperLega : Perugia Umbria Volley vs. Cuneo Volley (21:30)
 https://dlhd.dad/watch.php?id=881
 
-#EXTINF:-1 tvg-id="worldopenequippedchampionshipswomens63kgandmens93kgclujnapoca" tvg-name="Weightlifting | World Open Equipped Championships Women's 63kg and Men's 93kg | Cluj Napoca (19:00)" tvg-logo="http://pngimg.com/uploads/globe/globe_PNG8.png" group-title="Eventi Live",Weightlifting | World Open Equipped Championships Women's 63kg and Men's 93kg | Cluj Napoca (19:00)
+#EXTINF:-1 tvg-id="worldopenequippedchampionshipswomens63kgandmens93kgclujnapoca" tvg-name="Weightlifting | World Open Equipped Championships Women's 63kg and Men's 93kg | Cluj Napoca (19:00)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live",Weightlifting | World Open Equipped Championships Women's 63kg and Men's 93kg | Cluj Napoca (19:00)
 https://dlhd.dad/watch.php?id=878
 
 
