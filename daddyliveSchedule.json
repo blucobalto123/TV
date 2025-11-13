@@ -4398,7 +4398,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (TNA)": [
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -4600,7 +4600,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "16:00",
                 "event": "High School Football IHSAA State Championships, Semifinals: Teams TBA",
@@ -4724,7 +4724,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "00:00",
                 "event": "MLB Awards 2025 BBWAA MVP Award Live",
@@ -5000,7 +5000,9 @@
                         "channel_id": "80"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA College Basketball": [
             {
                 "time": "23:00",
                 "event": "NCAA Women's College Basketball : South Florida vs Fairfield",
@@ -5080,7 +5082,9 @@
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Cleveland Cavaliers vs Toronto Raptors",
@@ -5368,6 +5372,106 @@
                 ]
             },
             {
+                "time": "18:30",
+                "event": "DEL : Bremerhaven vs Red Bull M\u00fcnchen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Skelleftea vs Timra",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Rogle vs Farjestad BK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Lulea vs Djurgardens",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Linkopings vs Leksands",
+                "channels": [
+                    {
+                        "channel_name": "TV12 Sweden",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : HV 71 vs Vaxjo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Frolunda vs Orebro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Motor Sweden",
+                        "channel_id": "702"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Brynas vs Malmo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Finland Liiga : HPK vs Sport",
+                "channels": [
+                    {
+                        "channel_name": "MTV Urheilu 2 Finland",
+                        "channel_id": "105"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
+            {
                 "time": "00:00",
                 "event": "NHL : Dallas Stars vs Montreal Canadiens",
                 "channels": [
@@ -5568,104 +5672,6 @@
                     {
                         "channel_name": "V Sport Vinter",
                         "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Bremerhaven vs Red Bull M\u00fcnchen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Skelleftea vs Timra",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    },
-                    {
-                        "channel_name": "Viaplay Sports 1 UK",
-                        "channel_id": "451"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Rogle vs Farjestad BK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Lulea vs Djurgardens",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Linkopings vs Leksands",
-                "channels": [
-                    {
-                        "channel_name": "TV12 Sweden",
-                        "channel_id": "30"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : HV 71 vs Vaxjo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Frolunda vs Orebro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Motor Sweden",
-                        "channel_id": "702"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Brynas vs Malmo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Finland Liiga : HPK vs Sport",
-                "channels": [
-                    {
-                        "channel_name": "MTV Urheilu 2 Finland",
-                        "channel_id": "105"
                     }
                 ]
             }
