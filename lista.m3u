@@ -131,6 +131,8 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -393,8 +395,6 @@ https://dlhd.dad/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -465,6 +465,8 @@ https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 # SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN ZONA (D)
 https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
+https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
@@ -608,10 +610,10 @@ https://dlhd.dad/watch.php?id=851
 #EXTINF:-1 tvg-id="daviscupworldgroupteamsfrancevsbelgium" tvg-name="Tennis | Davis Cup World Group Teams : France vs Belgium (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Belgium.png" group-title="Eventi Live",Tennis | Davis Cup World Group Teams : France vs Belgium (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (11:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live",Motorsport | MotoGP: Valencia Test Day (11:00)
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (11:00)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live",Motorsport | MotoGP: Valencia Test Day (11:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (15:20)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live",Motorsport | MotoGP: Valencia Test Day (15:20)
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (15:20)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live",Motorsport | MotoGP: Valencia Test Day (15:20)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="championsleaguegalatasarayvstrieste" tvg-name="Basketball | Champions League : Galatasaray vs Trieste (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Galatasaray_vs_Trieste.png" group-title="Eventi Live",Basketball | Champions League : Galatasaray vs Trieste (19:00)
