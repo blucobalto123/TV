@@ -1830,7 +1830,7 @@
         ],
         "WWE (NXT)": [
             {
-                "time": "00:00",
+                "time": "01:00",
                 "event": "WWE NXT",
                 "channels": [
                     {
@@ -3924,7 +3924,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "00:00",
                 "event": "NCAAF : Central Michigan vs Kent State",
@@ -4342,7 +4342,9 @@
                         "channel_id": "145"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
             {
                 "time": "23:00",
                 "event": "NCAAW Women's College Basketball : Coastal Carolina vs NC State",
@@ -4456,7 +4458,9 @@
                         "channel_id": "39"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Cleveland Cavaliers vs Houston Rockets",
@@ -4876,6 +4880,78 @@
         ],
         "Ice Hockey": [
             {
+                "time": "13:30",
+                "event": "Russia MHL : Dynamo Moscow U20 vs Mytishchinskie Atlanty U20",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "International Champions Hockey League : Ilves Tampere vs Bremerhaven",
+                "channels": [
+                    {
+                        "channel_name": "Viaplay 2 Urheilu Finland",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Dresdner Eislowen vs Schwenninger",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "Czech Republic 1st Liga : HC Chomutov vs. HC Stadion Litomerice",
+                "channels": [
+                    {
+                        "channel_name": "CT Sport Czech HD",
+                        "channel_id": "1033"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Champions Hockey League : KalPa Hockey vs. ZSC Lions Zurich",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 3 Croatia",
+                        "channel_id": "434"
+                    },
+                    {
+                        "channel_name": "Polsat Sport 3 Poland",
+                        "channel_id": "129"
+                    },
+                    {
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Sport 2 Hungary",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "International Champions Hockey League : Kalpa Hockey vs ZSC Lions",
+                "channels": [
+                    {
+                        "channel_name": "Viaplay 1 Urheilu Finland",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "Slovakia Extraliga : HC 21 Presov vs. Spisska Nova Ves",
                 "channels": [
@@ -4885,6 +4961,96 @@
                     }
                 ]
             },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Oskarshamn vs Vasteras",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs Sodertalje",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs Modo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Almtuna vs IF Bjorkloven",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : AIK vs Troja/Ljungby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "Champions Hockey League : Salzburg vs ERC Ingolstadt",
+                "channels": [
+                    {
+                        "channel_name": "ORF Sport Plus",
+                        "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Premium Poland",
+                        "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Switzerland National League : Ajoie vs EHC Biel-Bienne",
+                "channels": [
+                    {
+                        "channel_name": "MTV Urheilu 3 Finland",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "00:05",
+                "event": "USA AHL : Rochester Americans vs Lehigh Valley Phantoms",
+                "channels": [
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Edmonton Oilers vs Washington Capitals",
@@ -4915,7 +5081,7 @@
                     },
                     {
                         "channel_name": "TVA Sports",
-                        "channel_id": "8330"
+                        "channel_id": "833"
                     },
                     {
                         "channel_name": "TV3 Sport Denmark",
@@ -5038,166 +5204,6 @@
                     {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "15"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "Russia MHL : Dynamo Moscow U20 vs Mytishchinskie Atlanty U20",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "00:05",
-                "event": "USA AHL : Rochester Americans vs Lehigh Valley Phantoms",
-                "channels": [
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Dresdner Eislowen vs Schwenninger",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Oskarshamn vs Vasteras",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs Sodertalje",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : BIK Karlskoga vs Modo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Almtuna vs IF Bjorkloven",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : AIK vs Troja/Ljungby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "Czech Republic 1st Liga : HC Chomutov vs. HC Stadion Litomerice",
-                "channels": [
-                    {
-                        "channel_name": "CT Sport Czech HD",
-                        "channel_id": "1033"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Champions Hockey League : KalPa Hockey vs. ZSC Lions Zurich",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 3 Croatia",
-                        "channel_id": "434"
-                    },
-                    {
-                        "channel_name": "Polsat Sport 3 Poland",
-                        "channel_id": "129"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "12"
-                    },
-                    {
-                        "channel_name": "Sport 2 Hungary",
-                        "channel_id": "13"
-                    }
-                ]
-            },
-            {
-                "time": "18:15",
-                "event": "Champions Hockey League : Salzburg vs ERC Ingolstadt",
-                "channels": [
-                    {
-                        "channel_name": "ORF Sport Plus",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Premium Poland",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "International Champions Hockey League : Ilves Tampere vs Bremerhaven",
-                "channels": [
-                    {
-                        "channel_name": "Viaplay 2 Urheilu Finland",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "International Champions Hockey League : Kalpa Hockey vs ZSC Lions",
-                "channels": [
-                    {
-                        "channel_name": "Viaplay 1 Urheilu Finland",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Switzerland National League : Ajoie vs EHC Biel-Bienne",
-                "channels": [
-                    {
-                        "channel_name": "MTV Urheilu 3 Finland",
-                        "channel_id": "27"
                     }
                 ]
             }
@@ -5332,7 +5338,9 @@
                         "channel_id": "380"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "01:30",
                 "event": "Women's Volleyball : Purdue vs Wisconsin",
