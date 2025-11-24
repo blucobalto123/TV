@@ -7462,6 +7462,10 @@
                         "channel_id": "113"
                     },
                     {
+                        "channel_name": "Telemundo",
+                        "channel_id": "131"
+                    },
+                    {
                         "channel_name": "Match! Football 2 Russia",
                         "channel_id": "137"
                     },
@@ -8624,7 +8628,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (RAW)": [
             {
                 "time": "00:00",
                 "event": "WWE Monday Night RAW",
@@ -8664,7 +8668,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "01:15",
                 "event": "NFL : San Francisco 49ers vs Carolina Panthers",
@@ -8760,16 +8764,6 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "College Basketball : Rhode Island vs. Towson",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
-                    }
-                ]
-            },
-            {
                 "time": "16:30",
                 "event": "Elite League : Aigaleo vs Dafni",
                 "channels": [
@@ -8800,16 +8794,6 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "College Basketball : East Texas A&amp;M vs FDU",
-                "channels": [
-                    {
-                        "channel_name": "YES USA",
-                        "channel_id": "763"
-                    }
-                ]
-            },
-            {
                 "time": "17:15",
                 "event": "Bulgaria NBL : BC Levski Lukoil vs Lokomotiv Plovdiv 1926",
                 "channels": [
@@ -8830,6 +8814,38 @@
                 ]
             },
             {
+                "time": "18:45",
+                "event": "Israeli National League Basketball : Hapoel Haifa BC vs Elitzur Yavne",
+                "channels": [
+                    {
+                        "channel_name": "5Sport Israel",
+                        "channel_id": "144"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "16:00",
+                "event": "College Basketball : Rhode Island vs. Towson",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Basketball : East Texas A&amp;M vs FDU",
+                "channels": [
+                    {
+                        "channel_name": "YES USA",
+                        "channel_id": "763"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "NCAA : Tennessee vs Rutgers",
                 "channels": [
@@ -8846,16 +8862,6 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Israeli National League Basketball : Hapoel Haifa BC vs Elitzur Yavne",
-                "channels": [
-                    {
-                        "channel_name": "5Sport Israel",
-                        "channel_id": "144"
                     }
                 ]
             },
@@ -9086,7 +9092,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Toronto Raptors vs Cleveland Cavaliers",
@@ -9502,7 +9510,9 @@
                         "channel_id": "430"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Columbus Blue Jackets vs Washington Capitals",
@@ -9674,7 +9684,9 @@
                         "channel_id": "102"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball SEC Tournament, First Semifinal: Teams TBA",
