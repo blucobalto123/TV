@@ -3068,7 +3068,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship/League One": [
             {
                 "time": "19:45",
                 "event": "England - Championship : Stoke City vs Charlton Athletic",
@@ -3148,7 +3148,9 @@
                         "channel_id": "183"
                     }
                 ]
-            },
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "19:45",
                 "event": "Scottish Premiership : Motherwell vs Hibernian",
@@ -3158,7 +3160,9 @@
                         "channel_id": "184"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "07:45",
                 "event": "Asia - AFC Champions League Elite : Melbourne City vs Johor Darul Ta'zim",
@@ -4650,7 +4654,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (NXT)": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -4674,7 +4678,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "21:30",
                 "event": "NCAAF : Bowling Green vs UMass",
@@ -4724,16 +4728,6 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Basketball ESPN Events Invitational, First Semifinal: Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
                     }
                 ]
             },
@@ -4852,40 +4846,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "NCAA : Notre Dame vs Rutgers",
-                "channels": [
-                    {
-                        "channel_name": "TNT USA",
-                        "channel_id": "338"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "NCAA : Michigan State vs East Carolina",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    },
-                    {
-                        "channel_name": "FOX Sports 2 USA",
-                        "channel_id": "758"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "NCAA : Iowa State vs Creighton",
-                "channels": [
-                    {
-                        "channel_name": "truTV USA",
-                        "channel_id": "341"
-                    }
-                ]
-            },
-            {
                 "time": "19:15",
                 "event": "Euroleague : Panathinaikos vs Partizan",
                 "channels": [
@@ -4934,6 +4894,52 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "17:00",
+                "event": "College Basketball ESPN Events Invitational, First Semifinal: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA : Notre Dame vs Rutgers",
+                "channels": [
+                    {
+                        "channel_name": "TNT USA",
+                        "channel_id": "338"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA : Michigan State vs East Carolina",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "FOX Sports 2 USA",
+                        "channel_id": "758"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAA : Iowa State vs Creighton",
+                "channels": [
+                    {
+                        "channel_name": "truTV USA",
+                        "channel_id": "341"
                     }
                 ]
             },
@@ -5188,7 +5194,9 @@
                         "channel_id": "341"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Washington Wizards vs Atlanta Hawks",
@@ -5524,6 +5532,26 @@
         ],
         "Ice Hockey": [
             {
+                "time": "16:00",
+                "event": "Russia MHL : Dynamo Moscow U20 vs Mikhailov Academy U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Russia KHL : Neftekhimik Nizhnekamsk vs Avangard Omsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "Slovakia, 1st Liga : HK Gladiators Trnava vs. HK Indian Ziar Nad Hronom",
                 "channels": [
@@ -5540,6 +5568,70 @@
                     {
                         "channel_name": "JOJ Sport Slovakia HD",
                         "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Malmo vs Vaxjo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Djurgardens vs` Farjestad BK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Nurnberg Ice Tigers vs Schwenninger",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Red Bull M\u00fcnchen vs Straubing Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Kolner vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Frankfurt Lowen vs Augsburger Panther",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -5608,27 +5700,9 @@
                         "channel_id": "663"
                     }
                 ]
-            },
-            {
-                "time": "16:00",
-                "event": "Russia MHL : Dynamo Moscow U20 vs Mikhailov Academy U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Russia KHL : Neftekhimik Nizhnekamsk vs Avangard Omsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "17"
-                    }
-                ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "02:00",
                 "event": "NHL : Dallas Stars vs Edmonton Oilers",
@@ -5688,70 +5762,6 @@
                     {
                         "channel_name": "V Sport Vinter",
                         "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Nurnberg Ice Tigers vs Schwenninger",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "165"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Red Bull M\u00fcnchen vs Straubing Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "166"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Kolner vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "167"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Frankfurt Lowen vs Augsburger Panther",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "168"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Malmo vs Vaxjo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Djurgardens vs` Farjestad BK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
                     }
                 ]
             }
