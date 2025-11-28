@@ -5608,7 +5608,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -5818,7 +5818,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "20:00",
                 "event": "NFL : Philadelphia Eagles vs Chicago Bears",
@@ -5852,7 +5852,9 @@
                         "channel_id": "90"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA College Football": [
             {
                 "time": "17:00",
                 "event": "NCAA FBS : Ole Mississippi vs Mississippi St.",
@@ -6088,16 +6090,6 @@
                 ]
             },
             {
-                "time": "15:30",
-                "event": "College Basketball Battle 4 Atlantis, Consolation Game: Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
-                    }
-                ]
-            },
-            {
                 "time": "17:00",
                 "event": "World Cup - Qualification : Slovenia vs Estonia",
                 "channels": [
@@ -6122,6 +6114,100 @@
                     {
                         "channel_name": "Arena Sport 8 Serbia",
                         "channel_id": "943"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Europe: World Cup - Qualification : Germany vs Israel",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "5Sport Israel",
+                        "channel_id": "144"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Europe: World Cup - Qualification : Cyprus vs Croatia",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 1 Croatia",
+                        "channel_id": "432"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Europe: World Cup - Qualification : Czech Republic vs Sweden",
+                "channels": [
+                    {
+                        "channel_name": "CT Sport Czech HD",
+                        "channel_id": "1033"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Europe: World Cup - Qualification : France vs Belgium",
+                "channels": [
+                    {
+                        "channel_name": "beIN Sports 1 France",
+                        "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "Arena Sport 4 Croatia",
+                        "channel_id": "580"
+                    }
+                ]
+            },
+            {
+                "time": "19:40",
+                "event": "Europe: World Cup - Qualification : Poland vs Austria",
+                "channels": [
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "128"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Women's Rapid League : Whai vs Hoiho",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 3 NZ",
+                        "channel_id": "590"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "NBA G-League : Santa Cruz Warriors vs Salt Lake City Stars",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Bay Area USA",
+                        "channel_id": "753"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "15:30",
+                "event": "College Basketball Battle 4 Atlantis, Consolation Game: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
                     }
                 ]
             },
@@ -6161,30 +6247,6 @@
             },
             {
                 "time": "18:00",
-                "event": "Europe: World Cup - Qualification : Germany vs Israel",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 318",
-                        "channel_id": "18"
-                    },
-                    {
-                        "channel_name": "5Sport Israel",
-                        "channel_id": "144"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Europe: World Cup - Qualification : Cyprus vs Croatia",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 1 Croatia",
-                        "channel_id": "432"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
                 "event": "College Basketball Battle 4 Atlantis, Championship Game: Teams TBA",
                 "channels": [
                     {
@@ -6204,16 +6266,6 @@
                 ]
             },
             {
-                "time": "18:30",
-                "event": "Europe: World Cup - Qualification : Czech Republic vs Sweden",
-                "channels": [
-                    {
-                        "channel_name": "CT Sport Czech HD",
-                        "channel_id": "1033"
-                    }
-                ]
-            },
-            {
                 "time": "19:00",
                 "event": "NCAA : Oklahoma vs Marquette",
                 "channels": [
@@ -6228,34 +6280,6 @@
                     {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "Europe: World Cup - Qualification : France vs Belgium",
-                "channels": [
-                    {
-                        "channel_name": "beIN Sports 1 France",
-                        "channel_id": "116"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    },
-                    {
-                        "channel_name": "Arena Sport 4 Croatia",
-                        "channel_id": "580"
-                    }
-                ]
-            },
-            {
-                "time": "19:40",
-                "event": "Europe: World Cup - Qualification : Poland vs Austria",
-                "channels": [
-                    {
-                        "channel_name": "TVP Sport Poland",
-                        "channel_id": "128"
                     }
                 ]
             },
@@ -6364,16 +6388,6 @@
                 ]
             },
             {
-                "time": "01:00",
-                "event": "Women's Rapid League : Whai vs Hoiho",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
                 "time": "02:30",
                 "event": "NCAA : Drake vs LSU",
                 "channels": [
@@ -6402,17 +6416,9 @@
                         "channel_id": "44"
                     }
                 ]
-            },
-            {
-                "time": "03:00",
-                "event": "NBA G-League : Santa Cruz Warriors vs Salt Lake City Stars",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Bay Area USA",
-                        "channel_id": "753"
-                    }
-                ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:30",
                 "event": "NBA : Atlanta Hawks vs Cleveland Cavaliers",
@@ -6964,6 +6970,16 @@
         ],
         "Ice Hockey": [
             {
+                "time": "16:30",
+                "event": "Russia KHL : Severstal Cherepovets vs Lokomotiv Yaroslavl",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 4 Serbia",
+                        "channel_id": "581"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "Slovakia, Extraliga : HK Vlci Zilina vs. HK Nitra",
                 "channels": [
@@ -6975,11 +6991,41 @@
             },
             {
                 "time": "18:00",
-                "event": "College Ice Hockey : Notre Dame vs Boston College",
+                "event": "HockeyAllsvenskan : Vimmerby vs Vasteras",
                 "channels": [
                     {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Oskarshamn vs Troja/Ljungby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Mora vs Sodertalje",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs Nybro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sportkanalen Sweden",
+                        "channel_id": "707"
                     }
                 ]
             },
@@ -6994,12 +7040,92 @@
                 ]
             },
             {
-                "time": "19:00",
-                "event": "Women's College Ice Hockey : Robert Morris vs RIT",
+                "time": "18:30",
+                "event": "DEL : Konferenz",
                 "channels": [
                     {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Straubing Tigers vs Kolner",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Schwenninger vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Iserlohn Roosters vs Red Bull M\u00fcnchen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 308",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Grizzly Wolfsburg vs Eisbaren Berlin",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 309",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : ERC Ingolstadt vs Dresdner Eislowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 306",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Bremerhaven vs Frankfurt Lowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Augsburger Panther vs Nurnberg Ice Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 307",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "HockeyAllsvenskan : Modo vs IF Bjorkloven",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
                     }
                 ]
             },
@@ -7010,16 +7136,6 @@
                     {
                         "channel_name": "Sport en France",
                         "channel_id": "152"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "Women's College Ice Hockey : Penn State vs Northeastern",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
                     }
                 ]
             },
@@ -7052,6 +7168,38 @@
                         "channel_id": "903"
                     }
                 ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:00",
+                "event": "College Ice Hockey : Notre Dame vs Boston College",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "College Ice Hockey W : Robert Morris vs RIT",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "College Ice Hockey W : Penn State vs Northeastern",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
             },
             {
                 "time": "23:00",
@@ -7076,17 +7224,9 @@
                         "channel_id": "922"
                     }
                 ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Severstal Cherepovets vs Lokomotiv Yaroslavl",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 4 Serbia",
-                        "channel_id": "581"
-                    }
-                ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "17:00",
                 "event": "NHL : Tampa Bay Lightning vs Detroit Red Wings",
@@ -7428,139 +7568,9 @@
                         "channel_id": "153"
                     }
                 ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Konferenz",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Straubing Tigers vs Kolner",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Schwenninger vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Iserlohn Roosters vs Red Bull M\u00fcnchen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 308",
-                        "channel_id": "23"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Grizzly Wolfsburg vs Eisbaren Berlin",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 309",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : ERC Ingolstadt vs Dresdner Eislowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 306",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Bremerhaven vs Frankfurt Lowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 305",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Augsburger Panther vs Nurnberg Ice Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 307",
-                        "channel_id": "27"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Vimmerby vs Vasteras",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Oskarshamn vs Troja/Ljungby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Mora vs Sodertalje",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs Nybro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sportkanalen Sweden",
-                        "channel_id": "707"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "HockeyAllsvenskan : Modo vs IF Bjorkloven",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
             }
         ],
-        "Rugby League": [
+        "Rugby League (NRL)": [
             {
                 "time": "20:00",
                 "event": "Fijian Cup Nines D2",
@@ -7858,7 +7868,9 @@
                         "channel_id": "47"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "23:30",
                 "event": "Women's College Volleyball : Penn State vs Nebraska",
