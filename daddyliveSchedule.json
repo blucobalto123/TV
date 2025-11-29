@@ -4394,7 +4394,7 @@
         ]
     },
     "Saturday 29th November 2025 - Schedule Time UK GMT": {
-        "Soccer": [
+        "England - Championship/League One/League Two": [
             {
                 "time": "12:30",
                 "event": "England - Championship : Portsmouth vs Bristol City",
@@ -4684,7 +4684,9 @@
                         "channel_id": "195"
                     }
                 ]
-            },
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scotland - Scottish Premiership : Dundee vs St. Mirren",
@@ -4704,7 +4706,9 @@
                         "channel_id": "197"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "06:00",
                 "event": "Australia - A-League : Central Coast Mariners vs Melbourne City",
@@ -9158,7 +9162,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "17:00",
                 "event": "NCAAF : No. 5 Texas Tech at West Virginia",
@@ -9624,7 +9628,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "08:00",
                 "event": "AFL Women : North Melbourne Kangaroos W vs Brisbane Lions W",
@@ -9728,7 +9732,9 @@
                         "channel_id": "591"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "22:00",
                 "event": "NBA : Minnesota Timberwolves vs Boston Celtics",
@@ -10524,6 +10530,70 @@
         ],
         "Ice Hockey": [
             {
+                "time": "14:15",
+                "event": "SHL : Skelleftea vs Leksands",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "14:15",
+                "event": "SHL : Malmo vs Djurgardens",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "14:15",
+                "event": "SHL : Brynas vs HV 71",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "SHL : Vaxjo vs Farjestad BK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "SHL : Timra vs Lulea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "SHL : Orebro vs Rogle",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "PWHL Hockey : Vancouver Goldeneyes vs New York Sirens",
                 "channels": [
@@ -10640,7 +10710,9 @@
                         "channel_id": "112"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "19:00",
                 "event": "NHL : Tampa Bay Lightning vs New York Rangers",
@@ -10940,70 +11012,6 @@
                     {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "14:15",
-                "event": "SHL : Skelleftea vs Leksands",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "14:15",
-                "event": "SHL : Malmo vs Djurgardens",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "14:15",
-                "event": "SHL : Brynas vs HV 71",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "SHL : Vaxjo vs Farjestad BK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "SHL : Timra vs Lulea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "SHL : Orebro vs Rogle",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
                     }
                 ]
             }
@@ -11504,7 +11512,9 @@
                         "channel_id": "166"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball": [
             {
                 "time": "00:00",
                 "event": "Women's College Volleyball : Penn State vs Iowa",
