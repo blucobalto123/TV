@@ -1,5 +1,91 @@
 {
     "Saturday 29th November 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "15:45",
+                "event": "2025 Turkey Derby at Wall Stadium Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Bad Blood PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Full Contact Contender : FCC 44",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "TNT Extreme Wrestling: Cold Day In Hell 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Nowhere 2 Hyde: Revolution",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 USAC Turkey Night Grand Prix at Ventura Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WWE Survivor Series 2025",
+                "channels": [
+                    {
+                        "channel_name": "PPV Feed I",
+                        "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "PPV Feed II",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ProBox Fight Night: Fight for Dignity : Justin Pauldo vs. Nike Theran",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "154"
+                    }
+                ]
+            }
+        ],
         "England - Championship/League One/League Two": [
             {
                 "time": "12:30",
@@ -4492,6 +4578,10 @@
                 "event": "ESPN KnockOut : Elijah Pierce vs. Lorenzo Parra",
                 "channels": [
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "155"
+                    },
+                    {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "375"
                     }
@@ -4771,6 +4861,16 @@
         "Am. Football (NCAAF)": [
             {
                 "time": "17:00",
+                "event": "NCAAF : Toledo at Central Michigan",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "NCAAF : No. 5 Texas Tech at West Virginia",
                 "channels": [
                     {
@@ -4880,12 +4980,372 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "NCAAF : East Carolina at Florida Atlantic",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Yale at Youngstown State (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Harvard at Villanova (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Central Connecticut State at Rhode Island (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Assumption at Kutztown (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Randolph-Macon at John Carroll (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Wisconsin-La Crosse at Hope (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Eastern at Franklin & Marshall (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Endicott at Salisbury (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Muhlenberg at Mount Union (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : LaGrange at Berry (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "210"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Susquehanna at Christopher Newport (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Springfield at Johns Hopkins (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAF : Frostburg State at California (PA) (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "NCAAF : No. 11 BYU vs. UCF",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : UTEP at Delaware",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Florida International at Sam Houston",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Lamar at Abilene Christian (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Illinois State at SE Louisiana (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : North Dakota at Tennessee Tech (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : New Hampshire at South Dakota State (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Drake at South Dakota (FCS First Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Ashland at Ferris State (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Benedict at Albany State (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Hardin-Simmons at Trinity (TX) (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Alma at Wisconsin-Platteville (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : DePauw at Wisconsin-Whitewater (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Monmouth (IL) at Saint John's (MN) (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Wheaton (IL) at Wartburg (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Hanover at North Central (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Coe at Bethel (MN) (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Newberry at West Florida (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAF : Chapman at Wisconsin-River Falls (DIII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "NCAAF : Georgia Southern at Marshall",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Western Kentucky at Jacksonville State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Louisiana Tech at Missouri State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Georgia State at Old Dominion",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -4904,6 +5364,56 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "NCAAF : Pittsburg State at Harding (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAF : Minnesota State at UIndy (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAAF : Arkansas State at Appalachian State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : UL Monroe at Louisiana",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Middle Tennessee at New Mexico State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "NCAAF : Boston College at Syracuse",
                 "channels": [
@@ -4914,6 +5424,46 @@
                     {
                         "channel_name": "CW PIX 11 USA",
                         "channel_id": "280"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : South Alabama at Texas State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : UAB at Tulsa",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : Florida A&M at Mississippi Valley State",
+                "channels": [
+                    {
+                        "channel_name": "SWAC TV USA",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "NCAAF : UT Permian Basin at Western Colorado (DII Second Round)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "199"
                     }
                 ]
             },
@@ -5028,6 +5578,26 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "NCAAF : Troy at Southern Miss",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NCAAF : Army at UTSA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
                 "time": "20:45",
                 "event": "NCAAF : James Madison at Coastal Carolina",
                 "channels": [
@@ -5078,6 +5648,16 @@
                     {
                         "channel_name": "FS1 USA",
                         "channel_id": "39"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NCAAF : Rice at South Florida",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "159"
                     }
                 ]
             },
