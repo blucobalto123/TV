@@ -319,6 +319,8 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -395,8 +397,6 @@ https://dlhd.dad/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -503,6 +503,8 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://dlhd.dad/watch.php?id=574
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -648,7 +650,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="germanybundesligahamburgersvvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Hamburger SV vs Werder Bremen (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hamburger SV_vs_Werder Bremen.png" group-title="Eventi Live",All Soccer Events | Germany - Bundesliga : Hamburger SV vs Werder Bremen (16:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)" tvg-logo="https://typography.guru/uploads/monthly_2017_11/pro.png.480237cb3471483f99057bbcb872170b.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)
+#EXTINF:-1 tvg-id="italyseriecpropatriavsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)" tvg-logo="https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/article/Apple-iPhone-15-Pro-lineup-color-lineup-geo-230912_big.jpg.large_2x.jpg" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)
 https://dlhd.dad/watch.php?id=76
 
 #EXTINF:-1 tvg-id="italyseriecravennavspontedera" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Pontedera.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ravenna vs Pontedera (18:30)
@@ -684,13 +686,13 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1lorientvsolympiquelyonnais" tvg-name="All Soccer Events | France - Ligue 1 : Lorient vs Olympique Lyonnais (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lorient_vs_Olympique Lyonnais.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Lorient vs Olympique Lyonnais (21:45)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="formula2abudhabirace" tvg-name="Motorsport | Formula 2 : Abu Dhabi Race (11:15)" tvg-logo="https://static.wixstatic.com/media/526d17_2cb3858029c246dc8b222d616253b895~mv2.png/v1/fill/w_1080,h_1080,al_c/Formula.png" group-title="Eventi Live",Motorsport | Formula 2 : Abu Dhabi Race (11:15)
+#EXTINF:-1 tvg-id="formula2abudhabirace" tvg-name="Motorsport | Formula 2 : Abu Dhabi Race (11:15)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live",Motorsport | Formula 2 : Abu Dhabi Race (11:15)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigpgrandprixsunday" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Grand Prix Sunday (14:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Grand Prix Sunday (14:00)
+#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigpgrandprixsunday" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Grand Prix Sunday (14:00)" tvg-logo="https://wallpaperaccess.com/full/6122397.png" group-title="Eventi Live",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Grand Prix Sunday (14:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigprace" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Race (15:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Race (15:00)
+#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigprace" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Race (15:00)" tvg-logo="https://wallpaperaccess.com/full/6122397.png" group-title="Eventi Live",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Race (15:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="ukchampionshipfinal" tvg-name="Snooker | UK Championship | Final (14:30)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live",Snooker | UK Championship | Final (14:30)
@@ -699,25 +701,25 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="ukchampionshipfinal" tvg-name="Snooker | UK Championship | Final (20:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live",Snooker | UK Championship | Final (20:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomentremblantgiantslalomrun1" tvg-name="Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (16:45)" tvg-logo="https://pronunciationstudio.com/wp-content/uploads/2016/01/Blog-world.png" group-title="Eventi Live",Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (16:45)
+#EXTINF:-1 tvg-id="worldcupwomentremblantgiantslalomrun1" tvg-name="Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (16:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (16:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupthemanbeavercreekgiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (21:45)" tvg-logo="https://pronunciationstudio.com/wp-content/uploads/2016/01/Blog-world.png" group-title="Eventi Live",Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (21:45)
+#EXTINF:-1 tvg-id="worldcupthemanbeavercreekgiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (21:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="valenciamarathontrinidadalfonsot2025" tvg-name="Athletics | Valencia Marathon Trinidad Alfonso (T2025) (09:00)" tvg-logo="https://cdn.pixabay.com/photo/2015/11/18/16/03/valencia-1049389_1280.jpg" group-title="Eventi Live",Athletics | Valencia Marathon Trinidad Alfonso (T2025) (09:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="women10kmpursuitcompetitionibuworldcupostersund" tvg-name="Biathlon | Women 10 km Pursuit Competition | IBU World Cup Ostersund (14:00)" tvg-logo="https://physicaltherapyforeverybody.com/wp-content/uploads/Untitled-Facebook-Cover-86.png" group-title="Eventi Live",Biathlon | Women 10 km Pursuit Competition | IBU World Cup Ostersund (14:00)
+#EXTINF:-1 tvg-id="women10kmpursuitcompetitionibuworldcupostersund" tvg-name="Biathlon | Women 10 km Pursuit Competition | IBU World Cup Ostersund (14:00)" tvg-logo="https://www.workingforwomen.org/wp-content/uploads/2021/07/shutterstock_483150121-scaled.jpg" group-title="Eventi Live",Biathlon | Women 10 km Pursuit Competition | IBU World Cup Ostersund (14:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="men125kmpursuitcompetitionibuworldcupostersund" tvg-name="Biathlon | Men 12.5 km Pursuit Competition | IBU World Cup Ostersund (16:10)" tvg-logo="https://i.pinimg.com/originals/ff/1d/43/ff1d43d25335bd0cfdb85ca0424c88a6.png" group-title="Eventi Live",Biathlon | Men 12.5 km Pursuit Competition | IBU World Cup Ostersund (16:10)
+#EXTINF:-1 tvg-id="men125kmpursuitcompetitionibuworldcupostersund" tvg-name="Biathlon | Men 12.5 km Pursuit Competition | IBU World Cup Ostersund (16:10)" tvg-logo="https://i.pinimg.com/originals/c2/d4/70/c2d470e0d0fef196cd31159fa7d64804.png" group-title="Eventi Live",Biathlon | Men 12.5 km Pursuit Competition | IBU World Cup Ostersund (16:10)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="trondheimwomens10kmfreestyleworldcup" tvg-name="Cross Country | Trondheim | Women's 10km Freestyle World Cup (10:15)" tvg-logo="https://static.flashscore.com/res/image/data/n7jJHU6j-KYZAphkt.png" group-title="Eventi Live",Cross Country | Trondheim | Women's 10km Freestyle World Cup (10:15)
+#EXTINF:-1 tvg-id="trondheimwomens10kmfreestyleworldcup" tvg-name="Cross Country | Trondheim | Women's 10km Freestyle World Cup (10:15)" tvg-logo="https://a.cdn-hotels.com/gdcs/production47/d305/e76889f0-fe37-45ec-89c1-00910c87cdd0.jpg" group-title="Eventi Live",Cross Country | Trondheim | Women's 10km Freestyle World Cup (10:15)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="trondheimmens10kmfreestyleworldcup" tvg-name="Cross Country | Trondheim | Men's 10km Freestyle World Cup (12:45)" tvg-logo="https://static.flashscore.com/res/image/data/n7jJHU6j-KYZAphkt.png" group-title="Eventi Live",Cross Country | Trondheim | Men's 10km Freestyle World Cup (12:45)
+#EXTINF:-1 tvg-id="trondheimmens10kmfreestyleworldcup" tvg-name="Cross Country | Trondheim | Men's 10km Freestyle World Cup (12:45)" tvg-logo="https://a.cdn-hotels.com/gdcs/production47/d305/e76889f0-fe37-45ec-89c1-00910c87cdd0.jpg" group-title="Eventi Live",Cross Country | Trondheim | Men's 10km Freestyle World Cup (12:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ucicyclocrossworldcupterralbasardinia" tvg-name="Cycling | UCI Cyclo-Cross World Cup Terralba - Sardinia (14:30)" tvg-logo="https://www.sardiniasailingcup.it/wp-content/uploads/2024/07/cropped-SARDINIA-SAILING-CUP-2024-LOGO.png" group-title="Eventi Live",Cycling | UCI Cyclo-Cross World Cup Terralba - Sardinia (14:30)
@@ -726,13 +728,13 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="skijumpingworldcupcompetitioninwisaqualifications" tvg-name="Ski Jumping | Ski Jumping: World Cup Competition in Wis?a qualifications (13:45)" tvg-logo="https://images.luxuryescapes.com/lux-group/image/upload/q_auto:eco,c_fill,g_auto,ar_16:9/1iz6mrns2dfoar7xy3ao" group-title="Eventi Live",Ski Jumping | Ski Jumping: World Cup Competition in Wis?a qualifications (13:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="individualcompetitionwislahs134" tvg-name="Ski Jumping | Individual competition | Wisla HS134 (15:05)" tvg-logo="http://www.simplinotes.com/wp-content/uploads/2019/04/individual.png" group-title="Eventi Live",Ski Jumping | Individual competition | Wisla HS134 (15:05)
+#EXTINF:-1 tvg-id="individualcompetitionwislahs134" tvg-name="Ski Jumping | Individual competition | Wisla HS134 (15:05)" tvg-logo="https://competitioncorner.net/file.aspx/mainFilesystem?Events%2frkp6njt87.png" group-title="Eventi Live",Ski Jumping | Individual competition | Wisla HS134 (15:05)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="fisworldcuptrondheim10kmfreestylef" tvg-name="Winter Sports | FIS World Cup Trondheim | 10km Freestyle (F) (10:30)" tvg-logo="https://freestylenutrition.co/assets/fnc-logo.png" group-title="Eventi Live",Winter Sports | FIS World Cup Trondheim | 10km Freestyle (F) (10:30)
+#EXTINF:-1 tvg-id="fisworldcuptrondheim10kmfreestylef" tvg-name="Winter Sports | FIS World Cup Trondheim | 10km Freestyle (F) (10:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a9/Fédération_Internationale_de_Ski_Logo.svg/500px-Fédération_Internationale_de_Ski_Logo.svg.png" group-title="Eventi Live",Winter Sports | FIS World Cup Trondheim | 10km Freestyle (F) (10:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="trondheimmenshs138worldcupday2" tvg-name="Winter Sports | Trondheim | Men's HS 138 World Cup | Day 2 (11:40)" tvg-logo="https://static.flashscore.com/res/image/data/n7jJHU6j-KYZAphkt.png" group-title="Eventi Live",Winter Sports | Trondheim | Men's HS 138 World Cup | Day 2 (11:40)
+#EXTINF:-1 tvg-id="trondheimmenshs138worldcupday2" tvg-name="Winter Sports | Trondheim | Men's HS 138 World Cup | Day 2 (11:40)" tvg-logo="https://a.cdn-hotels.com/gdcs/production47/d305/e76889f0-fe37-45ec-89c1-00910c87cdd0.jpg" group-title="Eventi Live",Winter Sports | Trondheim | Men's HS 138 World Cup | Day 2 (11:40)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ismfworldcupsolitudesprinthf" tvg-name="Winter Sports | ISMF World Cup Solitude | Sprint (H/F) (21:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Winter Sports | ISMF World Cup Solitude | Sprint (H/F) (21:00)
