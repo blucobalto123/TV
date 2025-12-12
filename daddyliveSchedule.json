@@ -4534,16 +4534,6 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "High School Football State Championship, Division II-AA: St. Mary's vs. Bakersfield Christian",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
                 "event": "Major Arena Soccer League : Kansas City Comets vs Milwaukee Wave",
                 "channels": [
@@ -4578,16 +4568,6 @@
                 ]
             },
             {
-                "time": "02:00",
-                "event": "College Football FCS Division I Championship: Stephen F. Austin State vs Montana State",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
                 "time": "03:00",
                 "event": "Australia - A-League Women : Newcastle Jets vs Brisbane Roar",
                 "channels": [
@@ -4608,16 +4588,6 @@
                     {
                         "channel_name": "CBS Sports Golazo USA",
                         "channel_id": "910"
-                    }
-                ]
-            },
-            {
-                "time": "04:00",
-                "event": "High School Football State Championship, Divsion I-AA: Folsom vs Cathedral Catholic",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
                     }
                 ]
             },
@@ -4918,7 +4888,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -5128,12 +5098,42 @@
         ],
         "Am. Football": [
             {
+                "time": "00:00",
+                "event": "High School Football State Championship, Division II-AA: St. Mary's vs. Bakersfield Christian",
+                "channels": [
+                    {
+                        "channel_name": "Spectrum SportsNet USA",
+                        "channel_id": "982"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "College Football FCS Division I Championship: Stephen F. Austin State vs Montana State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
                 "time": "02:00",
                 "event": "NCAA FCS : Montana vs Stephen F. Austin",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "High School Football State Championship, Divsion I-AA: Folsom vs Cathedral Catholic",
+                "channels": [
+                    {
+                        "channel_name": "Spectrum SportsNet USA",
+                        "channel_id": "982"
                     }
                 ]
             }
@@ -5546,22 +5546,24 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "NCAA : Xavier vs Missouri State",
-                "channels": [
-                    {
-                        "channel_name": "truTV USA",
-                        "channel_id": "341"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
                 "event": "NBA G-League : Texas Legends vs Austin Toros Spurs",
                 "channels": [
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    }
+                ]
+            }
+        ],
+        "NCAA Basketball": [
+            {
+                "time": "00:00",
+                "event": "NCAA : Xavier vs Missouri State",
+                "channels": [
+                    {
+                        "channel_name": "truTV USA",
+                        "channel_id": "341"
                     }
                 ]
             },
@@ -5582,7 +5584,9 @@
                         "channel_id": "643"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Charlotte Hornets vs Chicago Bulls",
@@ -6204,22 +6208,132 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "College Ice Hockey : Army vs Dartmouth",
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Oskarshamn vs AIK",
                 "channels": [
                     {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
+                        "channel_name": "TV4 Sportkanalen Sweden",
+                        "channel_id": "707"
                     }
                 ]
             },
             {
-                "time": "00:00",
-                "event": "Women's College Ice Hockey : Long Island University vs Robert Morris",
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs Modo",
                 "channels": [
                     {
-                        "channel_name": "SportsNet Pittsburgh USA",
-                        "channel_id": "922"
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : IF Bjorkloven vs Troja/Ljungby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs Almtuna",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Sodertalje vs Nybro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Ostersund vs Vasteras",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Konferenz",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Straubing Tigers vs Eisbaren Berlin",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Schwenninger vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 306",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Nurnberg Ice Tigers vs Frankfurt Lowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 308",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Iserlohn Roosters vs Dresdner Eislowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 307",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Grizzly Wolfsburg vs Bremerhaven",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Augsburger Panther vs ERC Ingolstadt",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "26"
                     }
                 ]
             },
@@ -6246,8 +6360,37 @@
             {
                 "time": "13:30",
                 "event": "Russia MHL : Avto Yekaterinburg U20 vs Tolpar UFA U20",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "14"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "00:00",
+                "event": "College Ice Hockey : Army vs Dartmouth",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
             },
+            {
+                "time": "00:00",
+                "event": "Women's College Ice Hockey : Long Island University vs Robert Morris",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh USA",
+                        "channel_id": "922"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "01:00",
                 "event": "NHL : Chicago Blackhawks vs St. Louis Blues",
@@ -6325,136 +6468,6 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Konferenz",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Straubing Tigers vs Eisbaren Berlin",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Schwenninger vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 306",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Nurnberg Ice Tigers vs Frankfurt Lowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 308",
-                        "channel_id": "23"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Iserlohn Roosters vs Dresdner Eislowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 307",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Grizzly Wolfsburg vs Bremerhaven",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 305",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Augsburger Panther vs ERC Ingolstadt",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Oskarshamn vs AIK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sportkanalen Sweden",
-                        "channel_id": "707"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs Modo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : IF Bjorkloven vs Troja/Ljungby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : BIK Karlskoga vs Almtuna",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Sodertalje vs Nybro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Ostersund vs Vasteras",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
                     }
                 ]
             }
@@ -6797,22 +6810,24 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "Women's College Volleyball : Indiana vs Texas",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
                 "time": "19:00",
                 "event": "Orlen Liga Women : Chemik Police vs. Radomka Radom",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 1 Poland",
                         "channel_id": "47"
+                    }
+                ]
+            }
+        ],
+        "NCAA Women's Volleyball": [
+            {
+                "time": "17:00",
+                "event": "Women's College Volleyball : Indiana vs Texas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
                     }
                 ]
             },
