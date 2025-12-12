@@ -1,5 +1,27 @@
 {
     "Friday 12th Dec 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "20:00",
+                "event": "2025 Snocross National at Mt. Zion",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Pro Wrestling Revolution: Lucha Libre - San Jose, December 2025 (en Espa\u00f1ol)",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "55"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "19:00",
@@ -1509,8 +1531,12 @@
             },
             {
                 "time": "00:00",
-                "event": "ESPN KnockOut : Erik Miloc vs. Nahuel Garc?a",
+                "event": "ESPN KnockOut : Erik Miloc vs. Nahuel Garc1a",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "69"
+                    },
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "150"
