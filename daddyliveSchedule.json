@@ -7864,7 +7864,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scotland - Scottish Premiership : Aberdeen vs Kilmarnock",
@@ -7874,7 +7874,9 @@
                         "channel_id": "156"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "09:00",
                 "event": "Romania - Liga II : Bihor Oradea vs Metalul Buz\u0103u",
@@ -11526,7 +11528,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "18:00",
                 "event": "NFL : Redzone",
@@ -12239,16 +12241,6 @@
             },
             {
                 "time": "18:00",
-                "event": "Women's College Basketball : Texas vs Baylor",
-                "channels": [
-                    {
-                        "channel_name": "TSN2",
-                        "channel_id": "112"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
                 "event": "Israeli Basketball Super League : Hapoel Be'er Sheva vs Hapoel Tel-Aviv",
                 "channels": [
                     {
@@ -12312,26 +12304,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "NCAA : Texas Southern vs Minnesota",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Women's College Basketball : LIU vs UMass-Lowell",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
                 "time": "18:30",
                 "event": "Croatia, Premijer Liga : KK Zadar vs. Kk Alkar Sinj",
                 "channels": [
@@ -12356,16 +12328,6 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "NCAA : Missouri vs Bethune Cookman",
-                "channels": [
-                    {
-                        "channel_name": "SEC Network USA",
-                        "channel_id": "385"
                     }
                 ]
             },
@@ -12398,6 +12360,58 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NBA G-League : Fort Wayne Mad Ants vs Windy City Bulls",
+                "channels": [
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "18:00",
+                "event": "Women's College Basketball : Texas vs Baylor",
+                "channels": [
+                    {
+                        "channel_name": "TSN2",
+                        "channel_id": "112"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA : Texas Southern vs Minnesota",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Women's College Basketball : LIU vs UMass-Lowell",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAA : Missouri vs Bethune Cookman",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
                     }
                 ]
             },
@@ -12481,16 +12495,6 @@
             },
             {
                 "time": "22:00",
-                "event": "NBA G-League : Fort Wayne Mad Ants vs Windy City Bulls",
-                "channels": [
-                    {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
                 "event": "NCAA : Chicago State vs Loyola Chicago",
                 "channels": [
                     {
@@ -12528,7 +12532,9 @@
                         "channel_id": "39"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "20:00",
                 "event": "NBA : Indiana Pacers vs Washington Wizards",
@@ -13376,6 +13382,78 @@
                 ]
             },
             {
+                "time": "13:00",
+                "event": "DEL : ERC Ingolstadt vs Iserlohn Roosters",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "DEL : Eisbaren Berlin vs Schwenninger",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "DEL : Bremerhaven vs Augsburger Panther",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Red Bull M\u00fcnchen vs Nurnberg Ice Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Kolner vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 307",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Frankfurt Lowen vs Straubing Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 306",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "DEL : Dresdner Eislowen vs Grizzly Wolfsburg",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
+            {
                 "time": "17:30",
                 "event": "NHL : Vancouver Canucks vs New Jersey Devils",
                 "channels": [
@@ -13572,76 +13650,6 @@
                     {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "DEL : ERC Ingolstadt vs Iserlohn Roosters",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "DEL : Eisbaren Berlin vs Schwenninger",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "DEL : Bremerhaven vs Augsburger Panther",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Red Bull M\u00fcnchen vs Nurnberg Ice Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 305",
-                        "channel_id": "27"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Kolner vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 307",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Frankfurt Lowen vs Straubing Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 306",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "DEL : Dresdner Eislowen vs Grizzly Wolfsburg",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "30"
                     }
                 ]
             }
