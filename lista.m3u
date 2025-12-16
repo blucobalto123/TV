@@ -455,6 +455,8 @@ https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -609,35 +611,14 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecvispesarovsravenna" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Ravenna (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Ravenna.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Vis Pesaro vs Ravenna (21:30)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 tvg-id="italyseriecvispesarovsravenna" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Ravenna (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Ravenna.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Vis Pesaro vs Ravenna (21:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieccrotonevsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Virtus Casarano (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Virtus Casarano.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Crotone vs Virtus Casarano (21:30)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Monopoli (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Monopoli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Foggia vs Monopoli (21:30)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Monopoli (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Monopoli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Foggia vs Monopoli (21:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecarezzovspineto" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Pineto (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Pineto.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Arezzo vs Pineto (21:30)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriearomavscomo" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Como (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Roma vs Como (21:45)
-https://dlhd.dad/watch.php?id=7
-
-#EXTINF:-1 tvg-id="italyseriearomavscomo" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Como (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Roma vs Como (21:45)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="englandpremierleaguemanchesterunitedvsafcbournemouth" tvg-name="All Soccer Events | England - Premier League : Manchester United vs AFC Bournemouth (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_AFC Bournemouth.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Manchester United vs AFC Bournemouth (22:00)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="scottishopenround1day1eveningsession" tvg-name="Snooker | Scottish Open | Round 1 | Day 1 | Evening Session (21:00)" tvg-logo="https://handluggageonly.co.uk/wp-content/uploads/2016/09/Torridon.jpg" group-title="Eventi Live",Snooker | Scottish Open | Round 1 | Day 1 | Evening Session (21:00)
+#EXTINF:-1 tvg-id="scottishopensnookerround1" tvg-name="Snooker | Scottish Open Snooker - Round 1 (15:00)" tvg-logo="https://www.womenssnooker.com/wp-content/uploads/players-1200x1200-16.png" group-title="Eventi Live",Snooker | Scottish Open Snooker - Round 1 (15:00)
 https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="scottishopensnookerround1" tvg-name="Snooker | Scottish Open Snooker - Round 1 (21:00)" tvg-logo="https://www.womenssnooker.com/wp-content/uploads/players-1200x1200-16.png" group-title="Eventi Live",Snooker | Scottish Open Snooker - Round 1 (21:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldcupcompetitionincourchevelwomensslalomrun2" tvg-name="Alpine Ski | World Cup Competition in Courchevel Women's slalom, run 2 (21:15)" tvg-logo="https://cdn.pixabay.com/photo/2016/04/01/22/32/world-1301744_1280.png" group-title="Eventi Live",Alpine Ski | World Cup Competition in Courchevel Women's slalom, run 2 (21:15)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

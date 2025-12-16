@@ -2967,7 +2967,7 @@
         "Table Tennis": [
             {
                 "time": "17:00",
-                "event": "mixed team friendly match: Poland vs Austria",
+                "event": "Mixed Team Friendly Match: Poland vs Austria",
                 "channels": [
                     {
                         "channel_name": "TVP Sport Poland",
@@ -2988,7 +2988,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (NXT)": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -3132,7 +3132,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "02:00",
                 "event": "NCAAF : Jacksonville State vs Troy",
@@ -3176,16 +3176,6 @@
                 ]
             },
             {
-                "time": "15:30",
-                "event": "NCAA Women's College Basketball : Vermont vs Holy Cross",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
                 "time": "16:00",
                 "event": "Euroleague : Dubai vs Maccabi Tel Aviv",
                 "channels": [
@@ -3212,16 +3202,6 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "NCAA : Howard vs Drexel",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Philadelphia USA",
-                        "channel_id": "777"
                     }
                 ]
             },
@@ -3622,6 +3602,48 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "NBA G-League : Memphis Hustle vs Osceola Magic",
+                "channels": [
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "NBA G-League : South Bay Lakers vs Agua Caliente Clippers",
+                "channels": [
+                    {
+                        "channel_name": "Spectrum SportsNet USA",
+                        "channel_id": "982"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "15:30",
+                "event": "Women's College Basketball : Vermont vs Holy Cross",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAA : Howard vs Drexel",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Philadelphia USA",
+                        "channel_id": "777"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "NCAA : Lipscomb vs Duke",
                 "channels": [
@@ -3688,16 +3710,6 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "NBA G-League : Memphis Hustle vs Osceola Magic",
-                "channels": [
-                    {
-                        "channel_name": "FanDuel Sports Network Florida",
-                        "channel_id": "892"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
                 "event": "NCAA : East Tennessee State vs North Carolina",
                 "channels": [
@@ -3729,16 +3741,6 @@
             },
             {
                 "time": "03:00",
-                "event": "NBA G-League : South Bay Lakers vs Agua Caliente Clippers",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
                 "event": "Women's College Basketball : Cal Poly-San Luis Obispo vs UCLA",
                 "channels": [
                     {
@@ -3746,10 +3748,12 @@
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "01:30",
-                "event": "NBA Emirates NBA Cup",
+                "event": "NBA Cup : San Antonio Spurs vs New York Knicks",
                 "channels": [
                     {
                         "channel_name": "Sportsnet One",
@@ -3891,6 +3895,200 @@
             }
         ],
         "Ice Hockey": [
+            {
+                "time": "09:00",
+                "event": "MHL : Amurskie Tigry U20 vs AKM-Junior Novomoskovsk U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "KHL : Sibir Novosibirsk vs Avangard Omsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "MHL : Stalnye Lisy U20 vs Tolpar UFA U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "KHL : Lokomotiv Yaroslavl vs Dinamo Minsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "KHL : Ak Bars Kazan vs Salavat Yulaev Ufa",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "KHL : Dynamo Moscow vs Spartak Moscow",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Champions Hockey League : KalPa vs Brynas",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport Premium 2 Poland",
+                        "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Sport 2 Hungary",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Champions Hockey League : Ilves vs Lulea",
+                "channels": [
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Sport 1 Czech",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Polsat Sport 3 Poland",
+                        "channel_id": "129"
+                    },
+                    {
+                        "channel_name": "Arena Sport 2 Croatia",
+                        "channel_id": "433"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Champions Hockey League : Frolunda vs ERC Ingolstadt",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Premium 1 Poland",
+                        "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Arena Sport 4 Croatia",
+                        "channel_id": "580"
+                    },
+                    {
+                        "channel_name": "TV 10 Sweden",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Norway, Eliteserien : Storhamar Hockey vs. Stjernen Hockey Fredrikstad",
+                "channels": [
+                    {
+                        "channel_name": "TV2 Sport 2 Norway",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Champions Hockey League : Zug vs Lukko",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Arena Sport 4 Serbia",
+                        "channel_id": "581"
+                    },
+                    {
+                        "channel_name": "Sport 1 Czech",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "PWHL : Ottawa vs Vancouver Goldeneyes W",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh USA",
+                        "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Indiana",
+                        "channel_id": "894"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Kansas City",
+                        "channel_id": "895"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Oklahoma",
+                        "channel_id": "900"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Detroit",
+                        "channel_id": "891"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Anaheim Ducks vs Columbus Blue Jackets",
@@ -4126,198 +4324,6 @@
                         "channel_id": "407"
                     }
                 ]
-            },
-            {
-                "time": "17:30",
-                "event": "Norway, Eliteserien : Storhamar Hockey vs. Stjernen Hockey Fredrikstad",
-                "channels": [
-                    {
-                        "channel_name": "TV2 Sport 2 Norway",
-                        "channel_id": "27"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "PWHL : Ottawa vs Vancouver Goldeneyes W",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet Pittsburgh USA",
-                        "channel_id": "922"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Indiana",
-                        "channel_id": "894"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Kansas City",
-                        "channel_id": "895"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Oklahoma",
-                        "channel_id": "900"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Detroit",
-                        "channel_id": "891"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Florida",
-                        "channel_id": "892"
-                    }
-                ]
-            },
-            {
-                "time": "09:00",
-                "event": "MHL : Amurskie Tigry U20 vs AKM-Junior Novomoskovsk U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "KHL : Sibir Novosibirsk vs Avangard Omsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "MHL : Stalnye Lisy U20 vs Tolpar UFA U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "KHL : Lokomotiv Yaroslavl vs Dinamo Minsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "KHL : Ak Bars Kazan vs Salavat Yulaev Ufa",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "KHL : Dynamo Moscow vs Spartak Moscow",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Champions Hockey League : KalPa vs Brynas",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport Premium 2 Poland",
-                        "channel_id": "18"
-                    },
-                    {
-                        "channel_name": "Sport 2 Hungary",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Champions Hockey League : Ilves vs Lulea",
-                "channels": [
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
-                    },
-                    {
-                        "channel_name": "Sport 1 Czech",
-                        "channel_id": "29"
-                    },
-                    {
-                        "channel_name": "Polsat Sport 3 Poland",
-                        "channel_id": "129"
-                    },
-                    {
-                        "channel_name": "Arena Sport 2 Croatia",
-                        "channel_id": "433"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Champions Hockey League : Frolunda vs ERC Ingolstadt",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "19"
-                    },
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Premium 1 Poland",
-                        "channel_id": "20"
-                    },
-                    {
-                        "channel_name": "Arena Sport 4 Croatia",
-                        "channel_id": "580"
-                    },
-                    {
-                        "channel_name": "TV 10 Sweden",
-                        "channel_id": "30"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Champions Hockey League : Zug vs Lukko",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    },
-                    {
-                        "channel_name": "Arena Sport 4 Serbia",
-                        "channel_id": "581"
-                    },
-                    {
-                        "channel_name": "Sport 1 Czech",
-                        "channel_id": "29"
-                    }
-                ]
             }
         ],
         "Volleyball": [
@@ -4452,7 +4458,7 @@
                 "event": "Grand Slam of Curling Canadian Open, Day 1",
                 "channels": [
                     {
-                        "channel_name": "Bally Sports Sun",
+                        "channel_name": "FanDuel Sports Network Sun",
                         "channel_id": "905"
                     },
                     {
