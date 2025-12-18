@@ -4522,7 +4522,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (TNA)": [
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -4688,7 +4688,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "02:00",
                 "event": "NCAAF : Arkansas State vs. Missouri State | Xbox Bowl (Frisco, Texas)",
@@ -4778,20 +4778,6 @@
                     {
                         "channel_name": "Sportklub 1 Croatia",
                         "channel_id": "101"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Women's College Basketball : Yale vs Monmouth",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    },
-                    {
-                        "channel_name": "NBCS Philadelphia USA",
-                        "channel_id": "777"
                     }
                 ]
             },
@@ -5010,6 +4996,22 @@
                         "channel_id": "637"
                     }
                 ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "16:30",
+                "event": "Women's College Basketball : Yale vs Monmouth",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet New York USA",
+                        "channel_id": "759"
+                    },
+                    {
+                        "channel_name": "NBCS Philadelphia USA",
+                        "channel_id": "777"
+                    }
+                ]
             },
             {
                 "time": "22:00",
@@ -5098,7 +5100,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Charlotte Hornets vs Atlanta Hawks",
@@ -5464,6 +5468,120 @@
         ],
         "Ice Hockey": [
             {
+                "time": "14:00",
+                "event": "KHL : Avtomobilist Yekaterinburg vs Dinamo Minsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "KHL : Lokomotiv Yaroslavl vs CSKA Moscow",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "KHL : Dynamo Moscow vs Barys Astana",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "KHL : SKA St. Petersburg vs Ak Bars Kazan",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Vaxjo vs Lulea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Timra vs Skelleftea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Motor Sweden",
+                        "channel_id": "702"
+                    },
+                    {
+                        "channel_name": "Sportdigital+ DE",
+                        "channel_id": "571"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Rogle vs Brynas",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Linkopings vs Djurgardens",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Leksands vs Malmo",
+                "channels": [
+                    {
+                        "channel_name": "TV12 Sweden",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Frolunda vs HV 71",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Farjestad BK vs Orebro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "Norway, Eliteserien : Frisk Asker vs. Stavanger Oilers",
                 "channels": [
@@ -5473,6 +5591,38 @@
                     }
                 ]
             },
+            {
+                "time": "18:30",
+                "event": "DEL : Red Bull M\u00fcnchen vs Schwenninger",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Kolner vs Grizzly Wolfsburg",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : ERC Ingolstadt vs Eisbaren Berlin",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "110"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Toronto Maple Leafs vs Washington Capitals",
@@ -5694,150 +5844,6 @@
                     {
                         "channel_name": "V Sport Vinter",
                         "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "KHL : Avtomobilist Yekaterinburg vs Dinamo Minsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "5"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "KHL : Lokomotiv Yaroslavl vs CSKA Moscow",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "KHL : Dynamo Moscow vs Barys Astana",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "5"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "KHL : SKA St. Petersburg vs Ak Bars Kazan",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "6"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Red Bull M\u00fcnchen vs Schwenninger",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "108"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Kolner vs Grizzly Wolfsburg",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "109"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : ERC Ingolstadt vs Eisbaren Berlin",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "110"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Vaxjo vs Lulea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Timra vs Skelleftea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Motor Sweden",
-                        "channel_id": "702"
-                    },
-                    {
-                        "channel_name": "Sportdigital+ DE",
-                        "channel_id": "571"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Rogle vs Brynas",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Linkopings vs Djurgardens",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Leksands vs Malmo",
-                "channels": [
-                    {
-                        "channel_name": "TV12 Sweden",
-                        "channel_id": "151"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Frolunda vs HV 71",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Farjestad BK vs Orebro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
                     }
                 ]
             }
