@@ -323,6 +323,8 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -359,8 +361,6 @@ https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
-https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
@@ -513,8 +513,6 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
@@ -603,7 +601,7 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacagliarivspisa" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Pisa (13:30)" tvg-logo="https://worldcitytrail.com/wp-content/uploads/2024/09/Untitled-design-62-1.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Cagliari vs Pisa (13:30)
+#EXTINF:-1 tvg-id="italyserieacagliarivspisa" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Pisa (13:30)" tvg-logo="http://www.cagliari1943.it/assets/images/cagliari-43-logo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Cagliari vs Pisa (13:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecascolivscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Ascoli vs Campobasso (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Campobasso.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ascoli vs Campobasso (13:30)
@@ -678,10 +676,10 @@ https://dlhd.dad/watch.php?id=20
 #EXTINF:-1 tvg-id="italyserieafiorentinavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Udinese.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (19:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)" tvg-logo="https://static.wixstatic.com/media/68e06d_ebfafe0896fe45549d84994679dee931~mv2.png/v1/crop/x_10,y_0,w_2622,h_2622/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/aimee.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)
 https://dlhd.dad/watch.php?id=18
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)" tvg-logo="https://static.wixstatic.com/media/68e06d_ebfafe0896fe45549d84994679dee931~mv2.png/v1/crop/x_10,y_0,w_2622,h_2622/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/aimee.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (21:30)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (21:30)
@@ -699,10 +697,10 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="scottishopenfinal" tvg-name="Snooker | Scottish Open | Final (20:45)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live",Snooker | Scottish Open | Final (20:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 1st run of men's giant slalom (10:35)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live",Alpine Ski | World Cup Competition in Alta Badia 1st run of men's giant slalom (10:35)
+#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 1st run of men's giant slalom (10:35)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240801/pngtree-environmental-concept-rainforest-lakes-in-the-shape-of-world-continents-image_16122907.jpg" group-title="Eventi Live",Alpine Ski | World Cup Competition in Alta Badia 1st run of men's giant slalom (10:35)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (14:00)" tvg-logo="https://www.skiservicelamunt.it/images/logo-noleggio-sci-skiservice-la-munt.png" group-title="Eventi Live",Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (14:00)
+#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (14:00)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240801/pngtree-environmental-concept-rainforest-lakes-in-the-shape-of-world-continents-image_16122907.jpg" group-title="Eventi Live",Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (14:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ibuworldcuplegrandbornandwomen125kmmassstartcompetition" tvg-name="Biathlon | IBU World Cup Le Grand Bornand | Women 12.5 km Mass Start Competition (12:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Biathlon | IBU World Cup Le Grand Bornand | Women 12.5 km Mass Start Competition (12:15)
@@ -711,10 +709,10 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="ibuworldcuplegrandbornandmen15kmmassstartcompetition" tvg-name="Biathlon | IBU World Cup Le Grand Bornand | Men 15 km Mass Start Competition (14:45)" tvg-logo="https://fiocchi.ovh/wp-content/uploads/2023/05/mail.png" group-title="Eventi Live",Biathlon | IBU World Cup Le Grand Bornand | Men 15 km Mass Start Competition (14:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupkoksijdewomen" tvg-name="Cycling | World Cup | Koksijde | Women (14:30)" tvg-logo="https://intraverse.io/wp-content/uploads/2023/03/NFT_WORLD_CUP_LOGO_x_website.png" group-title="Eventi Live",Cycling | World Cup | Koksijde | Women (14:30)
+#EXTINF:-1 tvg-id="worldcupkoksijdewomen" tvg-name="Cycling | World Cup | Koksijde | Women (14:30)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240801/pngtree-environmental-concept-rainforest-lakes-in-the-shape-of-world-continents-image_16122907.jpg" group-title="Eventi Live",Cycling | World Cup | Koksijde | Women (14:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupkoksijdemen" tvg-name="Cycling | World Cup | Koksijde Men (16:00)" tvg-logo="https://sabongworldcup.com/wp-content/uploads/2023/12/Kais-logo-1.png" group-title="Eventi Live",Cycling | World Cup | Koksijde Men (16:00)
+#EXTINF:-1 tvg-id="worldcupkoksijdemen" tvg-name="Cycling | World Cup | Koksijde Men (16:00)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240801/pngtree-environmental-concept-rainforest-lakes-in-the-shape-of-world-continents-image_16122907.jpg" group-title="Eventi Live",Cycling | World Cup | Koksijde Men (16:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="top14bordeauxbeglesvstoulon" tvg-name="Rugby Union | Top 14 : Bordeaux Begles vs Toulon (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bordeaux Begles_vs_Toulon.png" group-title="Eventi Live",Rugby Union | Top 14 : Bordeaux Begles vs Toulon (22:05)
@@ -726,7 +724,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="individualcompetitonengelberghs140" tvg-name="Ski Jumping | Individual competiton | Engelberg HS140 (16:45)" tvg-logo="https://ecommerce-image-catalog.s3.us-east-1.amazonaws.com/cristian/D1/Logo_D1_RGB.png" group-title="Eventi Live",Ski Jumping | Individual competiton | Engelberg HS140 (16:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="innichenskicrossworldcupday2" tvg-name="Winter Sports | Innichen | Ski Cross World Cup | Day 2 (13:00)" tvg-logo="https://innichen.bz/wp-content/uploads/2021/09/marktgemeinde-innichen-wappen.png" group-title="Eventi Live",Winter Sports | Innichen | Ski Cross World Cup | Day 2 (13:00)
+#EXTINF:-1 tvg-id="innichenskicrossworldcupday2" tvg-name="Winter Sports | Innichen | Ski Cross World Cup | Day 2 (13:00)" tvg-logo="https://www.innichen.net/CustomerData/434/Images/logo-innichen2.png" group-title="Eventi Live",Winter Sports | Innichen | Ski Cross World Cup | Day 2 (13:00)
 https://dlhd.dad/watch.php?id=879
 
 
