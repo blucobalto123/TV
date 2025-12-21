@@ -7052,7 +7052,223 @@
         ]
     },
     "Sunday 21st Dec 2025 - Schedule Time UK GMT": {
-        "Soccer": [
+        "TV Shows": [
+            {
+                "time": "13:30",
+                "event": "Arabia's Best Kept Secrets with Clive Standen Season 1, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "Discovery USA",
+                        "channel_id": "313"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "Motorhead Garage Season 13, Episode 51",
+                "channels": [
+                    {
+                        "channel_name": "Motor Trend",
+                        "channel_id": "661"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Major League Fishing Episode 18",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV USA",
+                        "channel_id": "659"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Sunday NFL Countdown Live",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Snapped: Behind Bars Season 3, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "Oxygen True Crime",
+                        "channel_id": "332"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Football Night in America Live",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Yellowstone Wardens Season 7, Episode 15",
+                "channels": [
+                    {
+                        "channel_name": "Animal Planet",
+                        "channel_id": "304"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2025 Poker Masters Event #5 - $10K No Limit Hold'em",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network USA",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Killer Grannies Season 1, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "Oxygen True Crime",
+                        "channel_id": "332"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "90 Day Fianc\u00e9: Before the 90 Days Season 8, Episode 3",
+                "channels": [
+                    {
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "The Real Housewives of Potomac Season 10, Episode 12",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Universal Basic Guys Season 2, Episode 12",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "The 2025 FOX Winter Preview New",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Married to Medicine Season 12, Episode 4",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Snakes in the City Season 10, Episode 5",
+                "channels": [
+                    {
+                        "channel_name": "Nat Geo Wild USA",
+                        "channel_id": "745"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Real Murders on Elm Street Season 2, Episode 6",
+                "channels": [
+                    {
+                        "channel_name": "ID USA",
+                        "channel_id": "324"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Robin Hood Season 1, Episode 9",
+                "channels": [
+                    {
+                        "channel_name": "MGM+ USA",
+                        "channel_id": "791"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "The Road Season 1, Episode 10 \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "CBS USA",
+                        "channel_id": "52"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Barrett-Jackson: REVVED UP Season 17, Episode 16",
+                "channels": [
+                    {
+                        "channel_name": "FYI USA",
+                        "channel_id": "665"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Sister Wives Season 20, Episode 13",
+                "channels": [
+                    {
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "I Love LA Season 1, Episode 8 \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "324"
+                    }
+                ]
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scottish Premiership : Celtic vs Aberdeen",
@@ -7062,7 +7278,9 @@
                         "channel_id": "77"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "09:00",
                 "event": "Australia - A-League Women : Perth Glory vs Adelaide United",
@@ -10102,7 +10320,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "18:00",
                 "event": "NFL : Redzone",
@@ -10779,69 +10997,11 @@
             },
             {
                 "time": "17:00",
-                "event": "Women's College Basketball : Monmouth vs Brown",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    },
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    },
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
                 "event": "ACB : Tecnyconta Zaragoza vs MoraBanc Andorra",
                 "channels": [
                     {
                         "channel_name": "ACB DAZN Spain",
                         "channel_id": "59"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "NCAA : Pittsburgh vs Penn State",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Women's College Basketball : NC State vs Davidson",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network USA",
-                        "channel_id": "308"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Women's College Basketball : Kennesaw State vs Miami",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Basketball: College of Charleston vs Northern Kentucky",
-                "channels": [
-                    {
-                        "channel_name": "FanDuel Sports Network Ohio",
-                        "channel_id": "899"
                     }
                 ]
             },
@@ -10852,36 +11012,10 @@
                     {
                         "channel_name": "beIN SPORTS 5 Turkey",
                         "channel_id": "1010"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Women's College Basketball : Kansas vs Iowa State",
-                "channels": [
+                    },
                     {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Women's College Basketball : Pittsburgh vs Duquesne",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Women's College Basketball : St. Francis (Pa.) vs Fordham",
-                "channels": [
-                    {
-                        "channel_name": "YES USA",
-                        "channel_id": "763"
+                        "channel_name": "Arena Sport 7 Serbia",
+                        "channel_id": "942"
                     }
                 ]
             },
@@ -10922,6 +11056,182 @@
                     {
                         "channel_name": "Arena Sport 4 Serbia",
                         "channel_id": "581"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Israeli Basketball Super League : Ironi Nes Ziona vs Maccabi Tel Aviv",
+                "channels": [
+                    {
+                        "channel_name": "5Sport Israel",
+                        "channel_id": "144"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ABA League : Subotica vs Bosna",
+                "channels": [
+                    {
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "Arena Sport 4 Croatia",
+                        "channel_id": "580"
+                    }
+                ]
+            }
+        ],
+        "NBA G League": [
+            {
+                "time": "18:00",
+                "event": "NBA G League Winter Showcase Tournament, Consolation Round: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NBA G League : Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "NBA G League Winter Showcase Tournament, Consolation Round: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NBA G League : Noblesville Boom vs Santa Cruz Warriors",
+                "channels": [
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NBA G League : Wisconsin Herd vs South Bay Lakers",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "NBA G League : Delaware Blue Coats vs Texas Legends",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "17:00",
+                "event": "NCAA : Pittsburgh vs Penn State",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAW : Monmouth vs Brown",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
+                    },
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAW : NC State vs Davidson",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network USA",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAW : Kennesaw State vs Miami",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Basketball: College of Charleston vs Northern Kentucky",
+                "channels": [
+                    {
+                        "channel_name": "FanDuel Sports Network Ohio",
+                        "channel_id": "899"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAW : Kansas vs Iowa State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAW : Pittsburgh vs Duquesne",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "NCAAW : St. Francis (Pa.) vs Fordham",
+                "channels": [
+                    {
+                        "channel_name": "YES USA",
+                        "channel_id": "763"
                     }
                 ]
             },
@@ -10970,16 +11280,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "NBA G League Basketball Winter Showcase Tournament, Consolation Round: Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
-                    }
-                ]
-            },
-            {
                 "time": "19:00",
                 "event": "Women's College Basketball : Texas vs South Dakota State",
                 "channels": [
@@ -10996,30 +11296,6 @@
                     {
                         "channel_name": "SEC Network USA",
                         "channel_id": "385"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Israeli Basketball Super League : Ironi Nes Ziona vs Maccabi Tel Aviv",
-                "channels": [
-                    {
-                        "channel_name": "5Sport Israel",
-                        "channel_id": "144"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "ABA League : Subotica vs Bosna",
-                "channels": [
-                    {
-                        "channel_name": "Arena 3 Premium Serbia",
-                        "channel_id": "139"
-                    },
-                    {
-                        "channel_name": "Arena Sport 4 Croatia",
-                        "channel_id": "580"
                     }
                 ]
             },
@@ -11044,16 +11320,6 @@
                 ]
             },
             {
-                "time": "19:30",
-                "event": "NBA G League Basketball : Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
-                    }
-                ]
-            },
-            {
                 "time": "20:00",
                 "event": "NCAA : Oregon State vs Arizona State",
                 "channels": [
@@ -11070,16 +11336,6 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "NBA G League Basketball Winter Showcase Tournament, Consolation Round: Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
                     }
                 ]
             },
@@ -11125,17 +11381,7 @@
             },
             {
                 "time": "22:00",
-                "event": "NBA G League : Noblesville Boom vs Santa Cruz Warriors",
-                "channels": [
-                    {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Women's College Basketball : Sacramento State at San Jose State",
+                "event": "NCAAW : Sacramento State at San Jose State",
                 "channels": [
                     {
                         "channel_name": "NBCS Bay Area",
@@ -11145,21 +11391,11 @@
             },
             {
                 "time": "23:00",
-                "event": "Women's College Basketball : Oregon vs. Stanford",
+                "event": "NCAAW : Oregon vs. Stanford",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "NBA G League : Wisconsin Herd vs South Bay Lakers",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
                     }
                 ]
             },
@@ -11185,16 +11421,6 @@
             },
             {
                 "time": "01:30",
-                "event": "NBA G League : Delaware Blue Coats vs Texas Legends",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
-                    }
-                ]
-            },
-            {
-                "time": "01:30",
                 "event": "Women's College Basketball : USC vs. California",
                 "channels": [
                     {
@@ -11202,7 +11428,9 @@
                         "channel_id": "44"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "20:30",
                 "event": "NBA : Atlanta Hawks vs Chicago Bulls",
@@ -11762,6 +11990,116 @@
         ],
         "Ice Hockey": [
             {
+                "time": "10:00",
+                "event": "Russia MHL : Almaz Cherepovets U20 vs Tolpar UFA U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "Russia KHL : Sibir Novosibirsk vs Amur Khabarovsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "Russia KHL : Avtomobilist Yekaterinburg vs Admiral Vladivostok",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "14:10",
+                "event": "Russia KHL : Dinamo Minsk vs Lada Togliatti",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "KHL : CSKA Moscow vs Dynamo Moscow",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "DEL : Schwenninger vs Nurnberg Ice Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "DEL : Grizzly Wolfsburg vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "DEL : Bremerhaven vs Red Bull M\u00fcnchen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Iserlohn Roosters vs Frankfurt Lowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 306",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Dresdner Eislowen vs ERC Ingolstadt",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 307",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "DEL : Augsburger Panther vs Straubing Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "Czech Republic, Extraliga : HC Olomouc vs. HC Litvinov",
                 "channels": [
@@ -11771,6 +12109,18 @@
                     }
                 ]
             },
+            {
+                "time": "18:00",
+                "event": "DEL : Eisbaren Berlin vs Kolner",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "26"
+                    }
+                ]
+            }
+        ],
+        "PWHL": [
             {
                 "time": "17:00",
                 "event": "PWHL : Toronto Sceptres vs New York Sirens",
@@ -11804,7 +12154,9 @@
                         "channel_id": "411"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "18:00",
                 "event": "NHL : Washington Capitals vs Detroit Red Wings",
@@ -12012,126 +12364,6 @@
                     {
                         "channel_name": "Nova Sport 1 CZ",
                         "channel_id": "1021"
-                    }
-                ]
-            },
-            {
-                "time": "10:00",
-                "event": "Russia MHL : Almaz Cherepovets U20 vs Tolpar UFA U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "10:30",
-                "event": "Russia KHL : Sibir Novosibirsk vs Amur Khabarovsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "154"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "Russia KHL : Avtomobilist Yekaterinburg vs Admiral Vladivostok",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "14:10",
-                "event": "Russia KHL : Dinamo Minsk vs Lada Togliatti",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "154"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "KHL : CSKA Moscow vs Dynamo Moscow",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "DEL : Schwenninger vs Nurnberg Ice Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "27"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "DEL : Grizzly Wolfsburg vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "DEL : Bremerhaven vs Red Bull M\u00fcnchen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Iserlohn Roosters vs Frankfurt Lowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 306",
-                        "channel_id": "30"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Dresdner Eislowen vs ERC Ingolstadt",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 307",
-                        "channel_id": "69"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "DEL : Augsburger Panther vs Straubing Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 305",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "DEL : Eisbaren Berlin vs Kolner",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "26"
                     }
                 ]
             }
