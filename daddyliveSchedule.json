@@ -1843,7 +1843,7 @@
                 "channels": [
                     {
                         "channel_name": "BTN USA",
-                        "channel_id": "597"
+                        "channel_id": "397"
                     }
                 ]
             },
@@ -3452,7 +3452,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (NXT)": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -3476,7 +3476,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "19:00",
                 "event": "NCAA FBS : Louisville vs Toledo",
@@ -3842,16 +3842,6 @@
                 ]
             },
             {
-                "time": "19:00",
-                "event": "NCAA : Grambling State vs Ohio State",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
                 "time": "19:15",
                 "event": "Poland, PLK : Slask Wroclaw vs. Dziki Warszawa",
                 "channels": [
@@ -3934,8 +3924,20 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "NCAA : UC Riverside vs UCLA",
+                "time": "22:00",
+                "event": "NBB : Minas vs Flamengo",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 Brasil",
+                        "channel_id": "82"
+                    }
+                ]
+            }
+        ],
+        "NCAA Basketball": [
+            {
+                "time": "19:00",
+                "event": "NCAA : Grambling State vs Ohio State",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
@@ -3944,12 +3946,12 @@
                 ]
             },
             {
-                "time": "22:00",
-                "event": "NBB : Minas vs Flamengo",
+                "time": "21:00",
+                "event": "NCAA : UC Riverside vs UCLA",
                 "channels": [
                     {
-                        "channel_name": "ESPN2 Brasil",
-                        "channel_id": "82"
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
                     }
                 ]
             },
@@ -3982,7 +3984,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Charlotte Hornets vs Washington Wizards",
@@ -4478,6 +4482,56 @@
         ],
         "Ice Hockey": [
             {
+                "time": "09:00",
+                "event": "Russia MHL : HC Taifun U20 vs AKM-Junior Novomoskovsk U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Russia KHL : Salavat Yulaev Ufa vs Amur Khabarovsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Russia MHL : Krasnaya Armiya U20 vs Spartak Moscow U20",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Severstal Cherepovets vs CSKA Moscow",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Dinamo Minsk vs Dynamo Moscow",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
                 "time": "18:45",
                 "event": "Switzerland, National League : EV Zug vs. HC Davos",
                 "channels": [
@@ -4567,6 +4621,18 @@
                     }
                 ]
             },
+            {
+                "time": "03:00",
+                "event": "PWHL : Seattle W vs Montreal W",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "21:00",
                 "event": "NHL : Pittsburgh Penguins vs Toronto Maple Leafs",
@@ -4874,66 +4940,6 @@
                     {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "09:00",
-                "event": "Russia MHL : HC Taifun U20 vs AKM-Junior Novomoskovsk U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Russia KHL : Salavat Yulaev Ufa vs Amur Khabarovsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Russia MHL : Krasnaya Armiya U20 vs Spartak Moscow U20",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Severstal Cherepovets vs CSKA Moscow",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Dinamo Minsk vs Dynamo Moscow",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "PWHL : Seattle PWHL W vs Montreal W",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
                     }
                 ]
             }
