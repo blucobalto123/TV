@@ -3913,7 +3913,7 @@
             }
         ]
     },
-    "Tuesday 30th Dec 2025 - Schedule Time UK GMT": {
+    "Monday 29th Dec 2025 - Schedule Time UK GMT": {
         "TV Shows": [
             {
                 "time": "12:00",
@@ -4146,7 +4146,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship": [
             {
                 "time": "19:45",
                 "event": "England - Championship : Stoke City vs Sheffield United",
@@ -4236,7 +4236,9 @@
                         "channel_id": "110"
                     }
                 ]
-            },
+            }
+        ],
+        "England - League One/League Two": [
             {
                 "time": "19:45",
                 "event": "England - League One : Barnsley vs Lincoln City",
@@ -4476,7 +4478,9 @@
                         "channel_id": "174"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:00",
                 "event": "Australia - A-League : Melbourne Victory vs Wellington Phoenix",
@@ -5292,7 +5296,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (RAW)": [
             {
                 "time": "00:00",
                 "event": "WWE Monday Night RAW",
@@ -5346,7 +5350,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "19:00",
                 "event": "NCAA FBS : Appalachian State vs Georgia Southern",
@@ -5574,7 +5578,9 @@
                         "channel_id": "142"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
             {
                 "time": "19:00",
                 "event": "Women's College Basketball : Mount St. Mary's vs Merrimack",
@@ -5758,7 +5764,9 @@
                         "channel_id": "39"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Charlotte Hornets vs Milwaukee Bucks",
@@ -6290,12 +6298,82 @@
         ],
         "Ice Hockey": [
             {
+                "time": "14:00",
+                "event": "KHL : Metallurg Magnitogorsk vs Tractor Chelyabinsk",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "Poland Cup : JKH GKS Jastrzebie vs. Aksam Unia Oswiecim",
                 "channels": [
                     {
                         "channel_name": "TVP Sport Poland HD",
                         "channel_id": "128"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Sodertalje vs Oskarshamn",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sportkanalen Sweden",
+                        "channel_id": "707"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Ostersund vs Mora",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Nybro vs Modo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs IF Bjorkloven",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs AIK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Almtuna vs Vasteras",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
                     }
                 ]
             },
@@ -6414,7 +6492,9 @@
                         "channel_id": "5"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : Washington Capitals vs Florida Panthers",
@@ -6606,76 +6686,6 @@
                     {
                         "channel_name": "Nova Sport 1 CZ",
                         "channel_id": "1021"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "KHL : Metallurg Magnitogorsk vs Tractor Chelyabinsk",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Sodertalje vs Oskarshamn",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sportkanalen Sweden",
-                        "channel_id": "707"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Ostersund vs Mora",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Nybro vs Modo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs IF Bjorkloven",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : BIK Karlskoga vs AIK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Almtuna vs Vasteras",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
                     }
                 ]
             }
